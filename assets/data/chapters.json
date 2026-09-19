@@ -119,7 +119,7 @@
       "file": "chapters/chapter-10.html",
       "slug": "chapter-10",
       "date": "2026-08-14",
-      "words": 2060,
+      "words": 2056,
       "minutes": 8,
       "status": "published"
     },
@@ -155,8 +155,8 @@
       "file": "chapters/chapter-13.html",
       "slug": "chapter-13",
       "date": "2026-08-15",
-      "words": 2109,
-      "minutes": 8,
+      "words": 2391,
+      "minutes": 10,
       "status": "published"
     },
     {
@@ -215,8 +215,8 @@
       "file": "chapters/chapter-18.html",
       "slug": "chapter-18",
       "date": "2026-08-19",
-      "words": 2048,
-      "minutes": 8,
+      "words": 3527,
+      "minutes": 14,
       "status": "published"
     },
     {
@@ -251,8 +251,8 @@
       "file": "chapters/chapter-21.html",
       "slug": "chapter-21",
       "date": "2026-08-22",
-      "words": 3685,
-      "minutes": 15,
+      "words": 2201,
+      "minutes": 9,
       "status": "published"
     },
     {
@@ -263,7 +263,7 @@
       "file": "chapters/chapter-22.html",
       "slug": "chapter-22",
       "date": "2026-08-23",
-      "words": 3348,
+      "words": 3350,
       "minutes": 13,
       "status": "published"
     },
@@ -359,7 +359,7 @@
       "file": "chapters/chapter-30.html",
       "slug": "chapter-30",
       "date": "2026-08-31",
-      "words": 4099,
+      "words": 4093,
       "minutes": 16,
       "status": "published"
     },
@@ -395,8 +395,8 @@
       "file": "chapters/chapter-33.html",
       "slug": "chapter-33",
       "date": "2026-08-19",
-      "words": 4624,
-      "minutes": 18,
+      "words": 6723,
+      "minutes": 27,
       "status": "published"
     },
     {
@@ -419,8 +419,8 @@
       "file": "chapters/chapter-35.html",
       "slug": "chapter-35",
       "date": "2026-08-19",
-      "words": 3590,
-      "minutes": 14,
+      "words": 3674,
+      "minutes": 15,
       "status": "published"
     },
     {
@@ -443,8 +443,8 @@
       "file": "chapters/chapter-37.html",
       "slug": "chapter-37",
       "date": "2026-08-22",
-      "words": 3619,
-      "minutes": 14,
+      "words": 3628,
+      "minutes": 15,
       "status": "published"
     },
     {
@@ -455,8 +455,8 @@
       "file": "chapters/chapter-38.html",
       "slug": "chapter-38",
       "date": "2026-08-23",
-      "words": 3071,
-      "minutes": 12,
+      "words": 3269,
+      "minutes": 13,
       "status": "published"
     },
     {
@@ -479,7 +479,7 @@
       "file": "chapters/chapter-40.html",
       "slug": "chapter-40",
       "date": "2026-08-23",
-      "words": 3179,
+      "words": 3317,
       "minutes": 13,
       "status": "published"
     },
@@ -515,8 +515,8 @@
       "file": "chapters/chapter-43.html",
       "slug": "chapter-43",
       "date": "2026-09-17",
-      "words": 3827,
-      "minutes": 15,
+      "words": 7293,
+      "minutes": 29,
       "status": "published"
     },
     {
@@ -527,8 +527,8 @@
       "file": "chapters/chapter-44.html",
       "slug": "chapter-44",
       "date": "2026-08-25",
-      "words": 3348,
-      "minutes": 13,
+      "words": 3388,
+      "minutes": 14,
       "status": "published"
     },
     {
@@ -539,8 +539,8 @@
       "file": "chapters/chapter-45.html",
       "slug": "chapter-45",
       "date": "2026-08-25",
-      "words": 3746,
-      "minutes": 15,
+      "words": 4145,
+      "minutes": 17,
       "status": "published"
     },
     {
@@ -587,8 +587,8 @@
       "file": "chapters/chapter-49.html",
       "slug": "chapter-49",
       "date": "2026-08-28",
-      "words": 2846,
-      "minutes": 11,
+      "words": 3038,
+      "minutes": 12,
       "status": "published"
     },
     {
@@ -599,7 +599,7 @@
       "file": "chapters/chapter-50.html",
       "slug": "chapter-50",
       "date": "2026-08-30",
-      "words": 2678,
+      "words": 2677,
       "minutes": 11,
       "status": "published"
     },
@@ -611,8 +611,8 @@
       "file": "chapters/chapter-51.html",
       "slug": "chapter-51",
       "date": "2026-08-31",
-      "words": 3774,
-      "minutes": 15,
+      "words": 5001,
+      "minutes": 20,
       "status": "published"
     },
     {
@@ -623,7 +623,7 @@
       "file": "chapters/chapter-52.html",
       "slug": "chapter-52",
       "date": "2026-09-01",
-      "words": 5098,
+      "words": 5115,
       "minutes": 20,
       "status": "published"
     },
@@ -647,7 +647,7 @@
       "file": "chapters/chapter-54.html",
       "slug": "chapter-54",
       "date": "2026-09-17",
-      "words": 3122,
+      "words": 3117,
       "minutes": 12,
       "status": "published"
     },
@@ -659,7 +659,7 @@
       "file": "chapters/chapter-55.html",
       "slug": "chapter-55",
       "date": "2026-09-17",
-      "words": 2001,
+      "words": 1996,
       "minutes": 8,
       "status": "published"
     },
@@ -671,8 +671,8 @@
       "file": "chapters/chapter-56.html",
       "slug": "chapter-56",
       "date": "2026-09-17",
-      "words": 2782,
-      "minutes": 11,
+      "words": 6141,
+      "minutes": 25,
       "status": "published"
     },
     {
@@ -683,7 +683,7 @@
       "file": "chapters/chapter-57.html",
       "slug": "chapter-57",
       "date": "2026-09-17",
-      "words": 3488,
+      "words": 3481,
       "minutes": 14,
       "status": "published"
     },
@@ -695,7 +695,7 @@
       "file": "chapters/chapter-58.html",
       "slug": "chapter-58",
       "date": "2026-09-17",
-      "words": 3725,
+      "words": 3828,
       "minutes": 15,
       "status": "published"
     },
@@ -767,8 +767,8 @@
       "file": "chapters/chapter-64.html",
       "slug": "chapter-64",
       "date": "2026-09-02",
-      "words": 4308,
-      "minutes": 17,
+      "words": 4460,
+      "minutes": 18,
       "status": "published"
     },
     {
@@ -815,8 +815,8 @@
       "file": "chapters/chapter-68.html",
       "slug": "chapter-68",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 3197,
+      "minutes": 13,
       "status": "published"
     },
     {
@@ -827,8 +827,8 @@
       "file": "chapters/chapter-69.html",
       "slug": "chapter-69",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 2622,
+      "minutes": 10,
       "status": "published"
     },
     {
@@ -839,8 +839,8 @@
       "file": "chapters/chapter-70.html",
       "slug": "chapter-70",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 2651,
+      "minutes": 11,
       "status": "published"
     },
     {
@@ -851,8 +851,8 @@
       "file": "chapters/chapter-71.html",
       "slug": "chapter-71",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 3401,
+      "minutes": 14,
       "status": "published"
     },
     {
@@ -863,8 +863,8 @@
       "file": "chapters/chapter-72.html",
       "slug": "chapter-72",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 2862,
+      "minutes": 11,
       "status": "published"
     },
     {
@@ -875,8 +875,8 @@
       "file": "chapters/chapter-73.html",
       "slug": "chapter-73",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 2036,
+      "minutes": 8,
       "status": "published"
     },
     {
@@ -887,8 +887,8 @@
       "file": "chapters/chapter-74.html",
       "slug": "chapter-74",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 2492,
+      "minutes": 10,
       "status": "published"
     },
     {
@@ -899,8 +899,8 @@
       "file": "chapters/chapter-75.html",
       "slug": "chapter-75",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 5663,
+      "minutes": 23,
       "status": "published"
     },
     {
@@ -911,152 +911,236 @@
       "file": "chapters/chapter-76.html",
       "slug": "chapter-76",
       "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
+      "words": 5728,
+      "minutes": 23,
       "status": "published"
     },
     {
       "id": "ch-77",
       "number": 77,
       "n": 77,
-      "title": "The Iron Road Opens",
+      "title": "The Second Column",
       "file": "chapters/chapter-77.html",
       "slug": "chapter-77",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 4085,
+      "minutes": 16,
       "status": "published"
     },
     {
       "id": "ch-78",
       "number": 78,
       "n": 78,
-      "title": "And Climbing",
+      "title": "The First Turning",
       "file": "chapters/chapter-78.html",
       "slug": "chapter-78",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 4508,
+      "minutes": 18,
       "status": "published"
     },
     {
       "id": "ch-79",
       "number": 79,
       "n": 79,
-      "title": "Iron for Clay",
+      "title": "The Honest Part",
       "file": "chapters/chapter-79.html",
       "slug": "chapter-79",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 4928,
+      "minutes": 20,
       "status": "published"
     },
     {
       "id": "ch-80",
       "number": 80,
       "n": 80,
-      "title": "Lime and the Tide Line",
+      "title": "Rag and Gall",
       "file": "chapters/chapter-80.html",
       "slug": "chapter-80",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 4709,
+      "minutes": 19,
       "status": "published"
     },
     {
       "id": "ch-81",
       "number": 81,
       "n": 81,
-      "title": "Straight as the Island Allows",
+      "title": "The Shape of the Water",
       "file": "chapters/chapter-81.html",
       "slug": "chapter-81",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3880,
+      "minutes": 16,
       "status": "published"
     },
     {
       "id": "ch-82",
       "number": 82,
       "n": 82,
-      "title": "A Role, Not a Man",
+      "title": "Trusted Hands",
       "file": "chapters/chapter-82.html",
       "slug": "chapter-82",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3952,
+      "minutes": 16,
       "status": "published"
     },
     {
       "id": "ch-83",
       "number": 83,
       "n": 83,
-      "title": "The Cost of a Hundred",
+      "title": "The Bladed Thing",
       "file": "chapters/chapter-83.html",
       "slug": "chapter-83",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3331,
+      "minutes": 13,
       "status": "published"
     },
     {
       "id": "ch-84",
       "number": 84,
       "n": 84,
-      "title": "Which Lines Get One",
+      "title": "The Unsold Hull",
       "file": "chapters/chapter-84.html",
       "slug": "chapter-84",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 4294,
+      "minutes": 17,
       "status": "published"
     },
     {
       "id": "ch-85",
       "number": 85,
       "n": 85,
-      "title": "The Grievance He Built",
+      "title": "Steam on the Water",
       "file": "chapters/chapter-85.html",
       "slug": "chapter-85",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3063,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-86",
       "number": 86,
       "n": 86,
-      "title": "What the Range Could Not Teach",
+      "title": "What Renner Kept",
       "file": "chapters/chapter-86.html",
       "slug": "chapter-86",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3609,
+      "minutes": 14,
       "status": "published"
     },
     {
       "id": "ch-87",
       "number": 87,
       "n": 87,
-      "title": "Over the Top of It",
+      "title": "The Cursed Shafts",
       "file": "chapters/chapter-87.html",
       "slug": "chapter-87",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3860,
+      "minutes": 15,
       "status": "published"
     },
     {
       "id": "ch-88",
       "number": 88,
       "n": 88,
-      "title": "The Page and Not the Meaning",
+      "title": "Held Breath",
       "file": "chapters/chapter-88.html",
       "slug": "chapter-88",
-      "date": "2026-09-04",
-      "words": 0,
-      "minutes": 0,
+      "date": "2026-09-19",
+      "words": 3869,
+      "minutes": 15,
+      "status": "published"
+    },
+    {
+      "id": "ch-89",
+      "number": 89,
+      "n": 89,
+      "title": "Declared Value",
+      "file": "chapters/chapter-89.html",
+      "slug": "chapter-89",
+      "date": "2026-09-19",
+      "words": 4489,
+      "minutes": 18,
+      "status": "published"
+    },
+    {
+      "id": "ch-90",
+      "number": 90,
+      "n": 90,
+      "title": "The Unaudited Number",
+      "file": "chapters/chapter-90.html",
+      "slug": "chapter-90",
+      "date": "2026-09-19",
+      "words": 2863,
+      "minutes": 11,
+      "status": "published"
+    },
+    {
+      "id": "ch-91",
+      "number": 91,
+      "n": 91,
+      "title": "The King's Price",
+      "file": "chapters/chapter-91.html",
+      "slug": "chapter-91",
+      "date": "2026-09-19",
+      "words": 3835,
+      "minutes": 15,
+      "status": "published"
+    },
+    {
+      "id": "ch-92",
+      "number": 92,
+      "n": 92,
+      "title": "Weight",
+      "file": "chapters/chapter-92.html",
+      "slug": "chapter-92",
+      "date": "2026-09-19",
+      "words": 3737,
+      "minutes": 15,
+      "status": "published"
+    },
+    {
+      "id": "ch-93",
+      "number": 93,
+      "n": 93,
+      "title": "The First Page",
+      "file": "chapters/chapter-93.html",
+      "slug": "chapter-93",
+      "date": "2026-09-19",
+      "words": 2949,
+      "minutes": 12,
+      "status": "published"
+    },
+    {
+      "id": "ch-94",
+      "number": 94,
+      "n": 94,
+      "title": "The Hold",
+      "file": "chapters/chapter-94.html",
+      "slug": "chapter-94",
+      "date": "2026-09-19",
+      "words": 4357,
+      "minutes": 17,
+      "status": "published"
+    },
+    {
+      "id": "ch-95",
+      "number": 95,
+      "n": 95,
+      "title": "Lift Points",
+      "file": "chapters/chapter-95.html",
+      "slug": "chapter-95",
+      "date": "2026-09-19",
+      "words": 4759,
+      "minutes": 19,
       "status": "published"
     }
   ]
