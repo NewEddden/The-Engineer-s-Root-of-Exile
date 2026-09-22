@@ -1478,6 +1478,12 @@
       "words": 2300,
       "minutes": 9,
       "status": "published"
-    }
+    },
+{"id": "ch-124", "number": 124, "n": 124, "title": "The Island", "file": "chapters/chapter-124.html", "slug": "chapter-124", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"},
+{"id": "ch-125", "number": 125, "n": 125, "title": "Terms", "file": "chapters/chapter-125.html", "slug": "chapter-125", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"},
+{"id": "ch-126", "number": 126, "n": 126, "title": "Rising", "file": "chapters/chapter-126.html", "slug": "chapter-126", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"},
+{"id": "ch-127", "number": 127, "n": 127, "title": "Burning Water", "file": "chapters/chapter-127.html", "slug": "chapter-127", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"},
+{"id": "ch-128", "number": 128, "n": 128, "title": "Cargo Home", "file": "chapters/chapter-128.html", "slug": "chapter-128", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"},
+{"id": "ch-129", "number": 129, "n": 129, "title": "The Fourth Set", "file": "chapters/chapter-129.html", "slug": "chapter-129", "date": "2026-09-22", "words": 0, "minutes": 0, "status": "planned"}
   ]
 }
