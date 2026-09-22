@@ -47,7 +47,7 @@
       "file": "chapters/chapter-04.html",
       "slug": "chapter-04",
       "date": "2026-08-08",
-      "words": 2494,
+      "words": 2576,
       "minutes": 10,
       "status": "published"
     },
@@ -407,8 +407,8 @@
       "file": "chapters/chapter-34.html",
       "slug": "chapter-34",
       "date": "2026-08-19",
-      "words": 2519,
-      "minutes": 10,
+      "words": 2789,
+      "minutes": 11,
       "status": "published"
     },
     {
@@ -503,8 +503,8 @@
       "file": "chapters/chapter-42.html",
       "slug": "chapter-42",
       "date": "2026-08-24",
-      "words": 3499,
-      "minutes": 14,
+      "words": 3656,
+      "minutes": 15,
       "status": "published"
     },
     {
@@ -587,8 +587,8 @@
       "file": "chapters/chapter-49.html",
       "slug": "chapter-49",
       "date": "2026-08-28",
-      "words": 3038,
-      "minutes": 12,
+      "words": 3517,
+      "minutes": 14,
       "status": "published"
     },
     {
@@ -599,7 +599,7 @@
       "file": "chapters/chapter-50.html",
       "slug": "chapter-50",
       "date": "2026-08-30",
-      "words": 2677,
+      "words": 2799,
       "minutes": 11,
       "status": "published"
     },
@@ -815,7 +815,7 @@
       "file": "chapters/chapter-68.html",
       "slug": "chapter-68",
       "date": "2026-09-03",
-      "words": 3197,
+      "words": 3199,
       "minutes": 13,
       "status": "published"
     },
@@ -827,8 +827,8 @@
       "file": "chapters/chapter-69.html",
       "slug": "chapter-69",
       "date": "2026-09-03",
-      "words": 2622,
-      "minutes": 10,
+      "words": 2980,
+      "minutes": 12,
       "status": "published"
     },
     {
@@ -863,8 +863,8 @@
       "file": "chapters/chapter-72.html",
       "slug": "chapter-72",
       "date": "2026-09-03",
-      "words": 2862,
-      "minutes": 11,
+      "words": 3013,
+      "minutes": 12,
       "status": "published"
     },
     {
@@ -887,8 +887,8 @@
       "file": "chapters/chapter-74.html",
       "slug": "chapter-74",
       "date": "2026-09-03",
-      "words": 2492,
-      "minutes": 10,
+      "words": 2663,
+      "minutes": 11,
       "status": "published"
     },
     {
@@ -911,8 +911,8 @@
       "file": "chapters/chapter-76.html",
       "slug": "chapter-76",
       "date": "2026-09-03",
-      "words": 5728,
-      "minutes": 23,
+      "words": 5907,
+      "minutes": 24,
       "status": "published"
     },
     {
@@ -983,8 +983,8 @@
       "file": "chapters/chapter-82.html",
       "slug": "chapter-82",
       "date": "2026-09-19",
-      "words": 4359,
-      "minutes": 17,
+      "words": 4686,
+      "minutes": 19,
       "status": "published"
     },
     {
@@ -1055,8 +1055,8 @@
       "file": "chapters/chapter-88.html",
       "slug": "chapter-88",
       "date": "2026-09-19",
-      "words": 3869,
-      "minutes": 15,
+      "words": 4781,
+      "minutes": 19,
       "status": "published"
     },
     {
@@ -1115,7 +1115,7 @@
       "file": "chapters/chapter-93.html",
       "slug": "chapter-93",
       "date": "2026-09-21",
-      "words": 2711,
+      "words": 2710,
       "minutes": 11,
       "status": "published"
     },
@@ -1259,7 +1259,7 @@
       "file": "chapters/chapter-105.html",
       "slug": "chapter-105",
       "date": "2026-09-21",
-      "words": 2731,
+      "words": 2745,
       "minutes": 11,
       "status": "published"
     },
@@ -1295,7 +1295,7 @@
       "file": "chapters/chapter-108.html",
       "slug": "chapter-108",
       "date": "2026-09-20",
-      "words": 2736,
+      "words": 2807,
       "minutes": 11,
       "status": "published"
     },
@@ -1319,7 +1319,7 @@
       "file": "chapters/chapter-110.html",
       "slug": "chapter-110",
       "date": "2026-09-20",
-      "words": 3468,
+      "words": 3473,
       "minutes": 14,
       "status": "published"
     },
@@ -1345,6 +1345,138 @@
       "date": "2026-09-20",
       "words": 4744,
       "minutes": 19,
+      "status": "published"
+    },
+    {
+      "id": "ch-113",
+      "number": 113,
+      "n": 113,
+      "title": "The Second Pattern",
+      "file": "chapters/chapter-113.html",
+      "slug": "chapter-113",
+      "date": "2026-09-22",
+      "words": 7009,
+      "minutes": 28,
+      "status": "published"
+    },
+    {
+      "id": "ch-114",
+      "number": 114,
+      "n": 114,
+      "title": "No Levers",
+      "file": "chapters/chapter-114.html",
+      "slug": "chapter-114",
+      "date": "2026-09-22",
+      "words": 4724,
+      "minutes": 19,
+      "status": "published"
+    },
+    {
+      "id": "ch-115",
+      "number": 115,
+      "n": 115,
+      "title": "From Memory",
+      "file": "chapters/chapter-115.html",
+      "slug": "chapter-115",
+      "date": "2026-09-22",
+      "words": 2996,
+      "minutes": 12,
+      "status": "published"
+    },
+    {
+      "id": "ch-116",
+      "number": 116,
+      "n": 116,
+      "title": "Fitting Out",
+      "file": "chapters/chapter-116.html",
+      "slug": "chapter-116",
+      "date": "2026-09-22",
+      "words": 5460,
+      "minutes": 22,
+      "status": "published"
+    },
+    {
+      "id": "ch-117",
+      "number": 117,
+      "n": 117,
+      "title": "Stores",
+      "file": "chapters/chapter-117.html",
+      "slug": "chapter-117",
+      "date": "2026-09-22",
+      "words": 3182,
+      "minutes": 13,
+      "status": "published"
+    },
+    {
+      "id": "ch-118",
+      "number": 118,
+      "n": 118,
+      "title": "Who Stays",
+      "file": "chapters/chapter-118.html",
+      "slug": "chapter-118",
+      "date": "2026-09-22",
+      "words": 5092,
+      "minutes": 20,
+      "status": "published"
+    },
+    {
+      "id": "ch-119",
+      "number": 119,
+      "n": 119,
+      "title": "Three Hours",
+      "file": "chapters/chapter-119.html",
+      "slug": "chapter-119",
+      "date": "2026-09-22",
+      "words": 3352,
+      "minutes": 13,
+      "status": "published"
+    },
+    {
+      "id": "ch-120",
+      "number": 120,
+      "n": 120,
+      "title": "Emberfell",
+      "file": "chapters/chapter-120.html",
+      "slug": "chapter-120",
+      "date": "2026-09-22",
+      "words": 3608,
+      "minutes": 14,
+      "status": "published"
+    },
+    {
+      "id": "ch-121",
+      "number": 121,
+      "n": 121,
+      "title": "Rowena",
+      "file": "chapters/chapter-121.html",
+      "slug": "chapter-121",
+      "date": "2026-09-22",
+      "words": 3369,
+      "minutes": 13,
+      "status": "published"
+    },
+    {
+      "id": "ch-122",
+      "number": 122,
+      "n": 122,
+      "title": "The Ground She Chose",
+      "file": "chapters/chapter-122.html",
+      "slug": "chapter-122",
+      "date": "2026-09-22",
+      "words": 2197,
+      "minutes": 9,
+      "status": "published"
+    },
+    {
+      "id": "ch-123",
+      "number": 123,
+      "n": 123,
+      "title": "Grain",
+      "file": "chapters/chapter-123.html",
+      "slug": "chapter-123",
+      "date": "2026-09-22",
+      "words": 2300,
+      "minutes": 9,
       "status": "published"
     }
   ]
