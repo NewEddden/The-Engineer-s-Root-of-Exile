@@ -1538,8 +1538,7 @@
       "words": 0,
       "minutes": 0,
       "status": "planned"
-    },
-    {
+    }    {
       "id": "ch-129",
       "number": 129,
       "n": 129,
@@ -1550,7 +1549,7 @@
       "words": 0,
       "minutes": 0,
       "status": "planned"
-    }
+    },
     {
       "id": "ch-130",
       "number": 130,
@@ -1559,9 +1558,9 @@
       "file": "chapters/chapter-130.html",
       "slug": "chapter-130",
       "date": "2026-09-22",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 3826,
+      "minutes": 15,
+      "status": "published"
     }
   ]
 }
