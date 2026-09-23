@@ -1550,13 +1550,13 @@
       "words": 0,
       "minutes": 0,
       "status": "planned"
-    },
+    }
     {
-      "id": "ch-129",
-      "number": 129,
-      "n": 129,
-      "title": "The Fourth Set",
-      "file": "chapters/chapter-129.html",
+      "id": "ch-130",
+      "number": 130,
+      "n": 130,
+      "title": "The Asking",
+      "file": "chapters/chapter-130.html",
       "slug": "chapter-129",
       "date": "2026-09-22",
       "words": 0,
