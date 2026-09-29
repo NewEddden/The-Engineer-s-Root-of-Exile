@@ -4,10 +4,12 @@
   const view = params.get("view");
   const isAll = view === "all";
   const isFrom = view === "from";
+  const isRange = view === "range";
 
   const elSep = document.getElementById("btn-separate");
   const elAll = document.getElementById("btn-all");
   const elFrom = document.getElementById("btn-from");
+  const elRange = document.getElementById("btn-range");
 
   const elBar = document.getElementById("reader-bar");
   const elPrev = document.getElementById("btn-prev");
@@ -73,7 +75,8 @@
   function setToggle() {
     elAll.classList.toggle("solid", isAll);
     elFrom.classList.toggle("solid", isFrom);
-    elSep.classList.toggle("solid", !isAll && !isFrom);
+    elRange.classList.toggle("solid", isRange);
+    elSep.classList.toggle("solid", !isAll && !isFrom && !isRange);
 
     // Current chapter.
     // Defaults to Chapter 1 if no chapter is specified.
@@ -91,6 +94,16 @@
     // Show every chapter starting with the current chapter.
     elFrom.href =
       "read.html?view=from&ch=" + encodeURIComponent(currentChapter);
+
+    // Range mode:
+    // Show a range of chapters. Uses ?start and ?end query parameters.
+    const start = params.get("start") || currentChapter;
+    const end = params.get("end") || currentChapter;
+    elRange.href =
+      "read.html?view=range&start=" +
+      encodeURIComponent(start) +
+      "&end=" +
+      encodeURIComponent(end);
   }
 
   // ---------------------------------------------------------------------------
@@ -193,16 +206,22 @@
   // ALL / FROM MODE
   // ---------------------------------------------------------------------------
 
-  async function renderAll(chapters, startIndex = 0) {
-    // If startIndex is 0:
+  async function renderAll(chapters, startIndex = 0, endIndex = undefined) {
+    // If startIndex is 0 and endIndex is undefined:
     //   Show every chapter.
     //
-    // If startIndex is, for example, 70:
-    //   Show chapters starting from index 70.
+    // If startIndex is, for example, 70 and endIndex is undefined:
+    //   Show chapters starting from index 70 to the end.
+    //   This is what makes "From" work.
     //
-    // This is what makes "From" work.
+    // If startIndex is, for example, 1 and endIndex is 5:
+    //   Show chapters from index 1 to index 5 (inclusive).
+    //   This is what makes "Range" work.
 
-    const chaptersToRender = chapters.slice(startIndex);
+    const chaptersToRender = chapters.slice(
+      startIndex,
+      endIndex !== undefined ? endIndex + 1 : undefined
+    );
 
     // No chapter dropdown / prev / next
     // when viewing multiple chapters.
@@ -210,7 +229,18 @@
     elBarBottom.style.display = "none";
 
     // Determine the title based on the mode.
-    if (isFrom && chaptersToRender.length > 0) {
+    if (isRange && chaptersToRender.length > 0) {
+      const firstCh = chaptersToRender[0].n;
+      const lastCh = chaptersToRender[chaptersToRender.length - 1].n;
+      document.title =
+        "Chapters " +
+        firstCh +
+        "-" +
+        lastCh +
+        " \u2014 The Engineer's Root of Exile";
+
+      setMediaMetadata("Chapters " + firstCh + "-" + lastCh);
+    } else if (isFrom && chaptersToRender.length > 0) {
       document.title =
         "Chapters from " +
         chaptersToRender[0].n +
@@ -302,6 +332,26 @@
         // If the chapter exists, start there.
         // If it doesn't, fall back to the first chapter.
         renderAll(chapters, startIndex === -1 ? 0 : startIndex);
+
+        return;
+      }
+
+      // ---------------------------------------------------------
+      // RANGE MODE
+      // ---------------------------------------------------------
+      if (isRange) {
+        const startChapter = parseInt(params.get("start") || "1", 10);
+        const endChapter = parseInt(params.get("end") || "1", 10);
+
+        const startIndex = chapters.findIndex((c) => c.n === startChapter);
+        const endIndex = chapters.findIndex((c) => c.n === endChapter);
+
+        // If chapters exist, use those indices.
+        // If they don't, fall back to showing just the first chapter.
+        const finalStart = startIndex === -1 ? 0 : startIndex;
+        const finalEnd = endIndex === -1 ? 0 : endIndex;
+
+        renderAll(chapters, finalStart, finalEnd);
 
         return;
       }
