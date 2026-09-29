@@ -9,7 +9,6 @@
   const elSep = document.getElementById("btn-separate");
   const elAll = document.getElementById("btn-all");
   const elFrom = document.getElementById("btn-from");
-  const elRange = document.getElementById("btn-range");
 
   const elBar = document.getElementById("reader-bar");
   const elPrev = document.getElementById("btn-prev");
@@ -75,12 +74,12 @@
   function setToggle() {
     elAll.classList.toggle("solid", isAll);
     elFrom.classList.toggle("solid", isFrom);
-    elRange.classList.toggle("solid", isRange);
     elSep.classList.toggle("solid", !isAll && !isFrom && !isRange);
 
     // Current chapter.
-    // Defaults to Chapter 1 if no chapter is specified.
-    const currentChapter = params.get("ch") || 1;
+    // In range mode there is no ?ch, so use the start of the range.
+    // Defaults to Chapter 1 if nothing is specified.
+    const currentChapter = params.get("ch") || params.get("start") || 1;
 
     // Separate mode:
     // Return to the chapter currently being viewed.
@@ -94,16 +93,100 @@
     // Show every chapter starting with the current chapter.
     elFrom.href =
       "read.html?view=from&ch=" + encodeURIComponent(currentChapter);
+  }
 
-    // Range mode:
-    // Show a range of chapters. Uses ?start and ?end query parameters.
-    const start = params.get("start") || currentChapter;
-    const end = params.get("end") || currentChapter;
-    elRange.href =
-      "read.html?view=range&start=" +
-      encodeURIComponent(start) +
-      "&end=" +
-      encodeURIComponent(end);
+  // ---------------------------------------------------------------------------
+  // RANGE PICKER
+  // ---------------------------------------------------------------------------
+  // Built here in JS so read.html needs no changes.
+  // It copies the look of the "Read Starting From" button,
+  // so it follows your existing CSS.
+  //
+  // URL format: read.html?view=range&start=2&end=20
+
+  function buildRangePicker() {
+    if (!elFrom) return null;
+
+    const cs = getComputedStyle(elFrom);
+    const accent = cs.color;
+    const border = cs.borderTopColor || accent;
+
+    const wrap = document.createElement("div");
+    wrap.id = "range-picker";
+    wrap.setAttribute("role", "group");
+    wrap.setAttribute("aria-label", "Read a range of chapters");
+    wrap.style.cssText =
+      "display:flex;flex-wrap:wrap;align-items:center;justify-content:center;" +
+      "gap:10px;flex-basis:100%;width:100%;margin:8px 0;" +
+      "font-family:" + cs.fontFamily + ";" +
+      "letter-spacing:" + cs.letterSpacing + ";" +
+      "color:" + accent + ";";
+
+    function numInput(label) {
+      const inp = document.createElement("input");
+      inp.type = "number";
+      inp.inputMode = "numeric";
+      inp.min = "1";
+      inp.setAttribute("aria-label", label);
+      // font-size 16px stops iPhone Safari from zooming in on focus.
+      inp.style.cssText =
+        "width:4.5em;padding:12px 6px;text-align:center;" +
+        "background:transparent;color:inherit;font-family:inherit;font-size:16px;" +
+        "border:1px solid " + border + ";border-radius:" + cs.borderTopLeftRadius + ";";
+      inp.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          go();
+        }
+      });
+      return inp;
+    }
+
+    const from = numInput("First chapter");
+    const to = numInput("Last chapter");
+
+    const label = document.createElement("span");
+    label.textContent = "to";
+
+    // Same element type and classes as the From button, so it matches.
+    const btn = document.createElement(elFrom.tagName);
+    btn.className = elFrom.className;
+    btn.classList.remove("solid");
+    btn.classList.toggle("solid", isRange);
+    btn.textContent = "Read Range";
+    btn.setAttribute("role", "button");
+    if (btn.tagName === "A") btn.href = "#";
+    btn.style.margin = "0";
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      go();
+    });
+
+    function go() {
+      let a = parseInt(from.value, 10);
+      let b = parseInt(to.value, 10);
+
+      if (isNaN(a) && isNaN(b)) {
+        from.focus();
+        return;
+      }
+      if (isNaN(a)) a = b;
+      if (isNaN(b)) b = a;
+      if (a > b) [a, b] = [b, a];
+
+      location.href = "read.html?view=range&start=" + a + "&end=" + b;
+    }
+
+    wrap.append(from, label, to, btn);
+    elFrom.insertAdjacentElement("afterend", wrap);
+
+    // Prefill from the URL so the current range (or chapter) shows.
+    const start = params.get("start") || params.get("ch") || "";
+    const end = params.get("end") || "";
+    from.value = start;
+    to.value = end;
+
+    return { from, to };
   }
 
   // ---------------------------------------------------------------------------
@@ -157,18 +240,18 @@
     const prev = chapters[idx - 1];
     const next = chapters[idx + 1];
 
-    wireNav(elPrev, prev, "\u2190 Prev");
-    wireNav(elNext, next, "Next \u2192");
+    wireNav(elPrev, prev, "← Prev");
+    wireNav(elNext, next, "Next →");
 
-    wireNav(elPrevBottom, prev, "\u2190 Prev");
-    wireNav(elNextBottom, next, "Next \u2192");
+    wireNav(elPrevBottom, prev, "← Prev");
+    wireNav(elNextBottom, next, "Next →");
 
     document.title =
-      "Ch " + ch.n + ": " + ch.title + " \u2014 The Engineer's Root of Exile";
+      "Ch " + ch.n + ": " + ch.title + " — The Engineer's Root of Exile";
 
     setMediaMetadata("Ch " + ch.n + ": " + ch.title);
 
-    elContent.innerHTML = '<div class="loading">Loading chapter\u2026</div>';
+    elContent.innerHTML = '<div class="loading">Loading chapter…</div>';
 
     try {
       const body = await extractContent(EROE.fileHref(ch.slug));
@@ -203,64 +286,35 @@
   }
 
   // ---------------------------------------------------------------------------
-  // ALL / FROM MODE
+  // ALL / FROM / RANGE MODE
   // ---------------------------------------------------------------------------
 
-  async function renderAll(chapters, startIndex = 0, endIndex = undefined) {
-    // If startIndex is 0 and endIndex is undefined:
-    //   Show every chapter.
-    //
-    // If startIndex is, for example, 70 and endIndex is undefined:
-    //   Show chapters starting from index 70 to the end.
-    //   This is what makes "From" work.
-    //
-    // If startIndex is, for example, 1 and endIndex is 5:
-    //   Show chapters from index 1 to index 5 (inclusive).
-    //   This is what makes "Range" work.
-
-    const chaptersToRender = chapters.slice(
-      startIndex,
-      endIndex !== undefined ? endIndex + 1 : undefined
-    );
-
+  // Renders a list of chapters one after another.
+  // All, From and Range just pass in a different list.
+  async function renderMany(list, title, mediaTitle) {
     // No chapter dropdown / prev / next
     // when viewing multiple chapters.
     elBar.style.display = "none";
     elBarBottom.style.display = "none";
 
-    // Determine the title based on the mode.
-    if (isRange && chaptersToRender.length > 0) {
-      const firstCh = chaptersToRender[0].n;
-      const lastCh = chaptersToRender[chaptersToRender.length - 1].n;
-      document.title =
-        "Chapters " +
-        firstCh +
-        "-" +
-        lastCh +
-        " \u2014 The Engineer's Root of Exile";
+    document.title = title + " — The Engineer's Root of Exile";
+    setMediaMetadata(mediaTitle || title);
 
-      setMediaMetadata("Chapters " + firstCh + "-" + lastCh);
-    } else if (isFrom && chaptersToRender.length > 0) {
-      document.title =
-        "Chapters from " +
-        chaptersToRender[0].n +
-        " \u2014 The Engineer's Root of Exile";
-
-      setMediaMetadata("Chapters from " + chaptersToRender[0].n);
-    } else {
-      document.title = "All chapters \u2014 The Engineer's Root of Exile";
-
-      setMediaMetadata("The Engineer's Root of Exile");
+    if (!list.length) {
+      elContent.innerHTML =
+        '<div class="error">No chapters in that range.</div>';
+      return;
     }
 
     elContent.innerHTML =
       '<div class="loading">Loading ' +
-      chaptersToRender.length +
-      " chapters\u2026</div>";
+      list.length +
+      (list.length === 1 ? " chapter" : " chapters") +
+      "…</div>";
 
     try {
       const parts = await Promise.all(
-        chaptersToRender.map((c) =>
+        list.map((c) =>
           extractContent(EROE.fileHref(c.slug))
             .then((body) => ({
               c,
@@ -304,6 +358,7 @@
   // ---------------------------------------------------------------------------
 
   setToggle();
+  const picker = buildRangePicker();
 
   EROE.load()
     .then(({ chapters }) => {
@@ -313,11 +368,23 @@
         return;
       }
 
+      const first = chapters[0].n;
+      const last = chapters[chapters.length - 1].n;
+
+      // Limit the picker to real chapter numbers,
+      // and default the end box to the latest chapter.
+      if (picker) {
+        picker.from.min = picker.to.min = first;
+        picker.from.max = picker.to.max = last;
+        if (!picker.from.value) picker.from.value = first;
+        if (!picker.to.value) picker.to.value = last;
+      }
+
       // ---------------------------------------------------------
       // ALL MODE
       // ---------------------------------------------------------
       if (isAll) {
-        renderAll(chapters, 0);
+        renderMany(chapters, "All chapters", "The Engineer's Root of Exile");
         return;
       }
 
@@ -327,11 +394,15 @@
       if (isFrom) {
         const currentChapter = parseInt(params.get("ch") || "1", 10);
 
-        const startIndex = chapters.findIndex((c) => c.n === currentChapter);
+        let startIndex = chapters.findIndex((c) => c.n === currentChapter);
 
         // If the chapter exists, start there.
         // If it doesn't, fall back to the first chapter.
-        renderAll(chapters, startIndex === -1 ? 0 : startIndex);
+        if (startIndex === -1) startIndex = 0;
+
+        const list = chapters.slice(startIndex);
+
+        renderMany(list, "Chapters from " + list[0].n);
 
         return;
       }
@@ -340,18 +411,27 @@
       // RANGE MODE
       // ---------------------------------------------------------
       if (isRange) {
-        const startChapter = parseInt(params.get("start") || "1", 10);
-        const endChapter = parseInt(params.get("end") || "1", 10);
+        let a = parseInt(params.get("start"), 10);
+        let b = parseInt(params.get("end"), 10);
 
-        const startIndex = chapters.findIndex((c) => c.n === startChapter);
-        const endIndex = chapters.findIndex((c) => c.n === endChapter);
+        if (isNaN(a)) a = first;
+        if (isNaN(b)) b = a;
+        if (a > b) [a, b] = [b, a];
 
-        // If chapters exist, use those indices.
-        // If they don't, fall back to showing just the first chapter.
-        const finalStart = startIndex === -1 ? 0 : startIndex;
-        const finalEnd = endIndex === -1 ? 0 : endIndex;
+        // Filter by chapter number, not position,
+        // so gaps in numbering (e.g. no Chapter 7) don't break it.
+        const list = chapters.filter((c) => c.n >= a && c.n <= b);
 
-        renderAll(chapters, finalStart, finalEnd);
+        let title;
+        if (list.length === 1) {
+          title = "Chapter " + list[0].n;
+        } else if (list.length) {
+          title = "Chapters " + list[0].n + "-" + list[list.length - 1].n;
+        } else {
+          title = "Chapters " + a + "-" + b;
+        }
+
+        renderMany(list, title);
 
         return;
       }
