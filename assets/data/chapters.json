@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'.",
+  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite note (2026-10-02): ch 1-21 are the rewritten Arc 1; ch 22+ keep their old titles but are set to planned until the rewrite reaches them.",
   "title": "The Engineer's Root of Exile",
   "subtitle": "A Novel",
   "chapters": [
@@ -10,152 +10,152 @@
       "title": "Live Normally",
       "file": "chapters/chapter-01.html",
       "slug": "chapter-01",
-      "date": "2026-08-07",
-      "words": 4596,
-      "minutes": 18,
+      "date": "2026-10-02",
+      "words": 2929,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-02",
       "number": 2,
       "n": 2,
-      "title": "Twenty-Two Years in Four Seconds",
+      "title": "Anything Whispered Is True",
       "file": "chapters/chapter-02.html",
       "slug": "chapter-02",
-      "date": "2026-08-07",
-      "words": 2648,
-      "minutes": 11,
+      "date": "2026-10-02",
+      "words": 3077,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-03",
       "number": 3,
       "n": 3,
-      "title": "Anything Whispered Is True",
+      "title": "Gifts",
       "file": "chapters/chapter-03.html",
       "slug": "chapter-03",
-      "date": "2026-08-07",
-      "words": 3120,
-      "minutes": 12,
+      "date": "2026-10-02",
+      "words": 2186,
+      "minutes": 9,
       "status": "published"
     },
     {
       "id": "ch-04",
       "number": 4,
       "n": 4,
-      "title": "Gifts",
+      "title": "Night Five",
       "file": "chapters/chapter-04.html",
       "slug": "chapter-04",
-      "date": "2026-08-08",
-      "words": 2576,
-      "minutes": 10,
+      "date": "2026-10-02",
+      "words": 2999,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-05",
       "number": 5,
       "n": 5,
-      "title": "The Rock That Behaved Like a Spring",
+      "title": "The Bound Man",
       "file": "chapters/chapter-05.html",
       "slug": "chapter-05",
-      "date": "2026-08-09",
-      "words": 2043,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 3009,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-06",
       "number": 6,
       "n": 6,
-      "title": "Night Five",
+      "title": "The Town, the Forge and the Healer",
       "file": "chapters/chapter-06.html",
       "slug": "chapter-06",
-      "date": "2026-08-10",
-      "words": 2273,
-      "minutes": 9,
+      "date": "2026-10-02",
+      "words": 2937,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-07",
       "number": 7,
       "n": 7,
-      "title": "Seven Days and a Bound Man",
+      "title": "The Map",
       "file": "chapters/chapter-07.html",
       "slug": "chapter-07",
-      "date": "2026-08-11",
-      "words": 2527,
-      "minutes": 10,
+      "date": "2026-10-02",
+      "words": 2148,
+      "minutes": 9,
       "status": "published"
     },
     {
       "id": "ch-08",
       "number": 8,
       "n": 8,
-      "title": "The Island",
+      "title": "Door to Door",
       "file": "chapters/chapter-08.html",
       "slug": "chapter-08",
-      "date": "2026-08-12",
-      "words": 2031,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 2131,
+      "minutes": 9,
       "status": "published"
     },
     {
       "id": "ch-09",
       "number": 9,
       "n": 9,
-      "title": "What the Ground Does",
+      "title": "The Ash Trade",
       "file": "chapters/chapter-09.html",
       "slug": "chapter-09",
-      "date": "2026-08-13",
-      "words": 2008,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 2224,
+      "minutes": 9,
       "status": "published"
     },
     {
       "id": "ch-10",
       "number": 10,
       "n": 10,
-      "title": "Six Hours at the Forge",
+      "title": "The Shop, the Cousin and the Ground",
       "file": "chapters/chapter-10.html",
       "slug": "chapter-10",
-      "date": "2026-08-14",
-      "words": 2056,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 1858,
+      "minutes": 7,
       "status": "published"
     },
     {
       "id": "ch-11",
       "number": 11,
       "n": 11,
-      "title": "The Map",
+      "title": "What the Stone Was For",
       "file": "chapters/chapter-11.html",
       "slug": "chapter-11",
-      "date": "2026-08-15",
-      "words": 2580,
-      "minutes": 10,
+      "date": "2026-10-02",
+      "words": 2119,
+      "minutes": 8,
       "status": "published"
     },
     {
       "id": "ch-12",
       "number": 12,
       "n": 12,
-      "title": "Door to Door",
+      "title": "A Working Drawing",
       "file": "chapters/chapter-12.html",
       "slug": "chapter-12",
-      "date": "2026-08-15",
-      "words": 2653,
-      "minutes": 11,
+      "date": "2026-10-02",
+      "words": 2963,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-13",
       "number": 13,
       "n": 13,
-      "title": "The Ash Trade",
+      "title": "The Name",
       "file": "chapters/chapter-13.html",
       "slug": "chapter-13",
-      "date": "2026-08-15",
-      "words": 2391,
+      "date": "2026-10-02",
+      "words": 2404,
       "minutes": 10,
       "status": "published"
     },
@@ -163,96 +163,96 @@
       "id": "ch-14",
       "number": 14,
       "n": 14,
-      "title": "The Shop, the Cousin, and the Ground",
+      "title": "Two Sets of Books",
       "file": "chapters/chapter-14.html",
       "slug": "chapter-14",
-      "date": "2026-08-15",
-      "words": 2054,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 3551,
+      "minutes": 14,
       "status": "published"
     },
     {
       "id": "ch-15",
       "number": 15,
       "n": 15,
-      "title": "What the Stone Was For",
+      "title": "The Crown's Judgment",
       "file": "chapters/chapter-15.html",
       "slug": "chapter-15",
-      "date": "2026-08-16",
-      "words": 2032,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 3159,
+      "minutes": 13,
       "status": "published"
     },
     {
       "id": "ch-16",
       "number": 16,
       "n": 16,
-      "title": "A Working Drawing",
+      "title": "A Barony Without a Baron",
       "file": "chapters/chapter-16.html",
       "slug": "chapter-16",
-      "date": "2026-08-17",
-      "words": 2120,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 3154,
+      "minutes": 13,
       "status": "published"
     },
     {
       "id": "ch-17",
       "number": 17,
       "n": 17,
-      "title": "The Name",
+      "title": "The Exchange",
       "file": "chapters/chapter-17.html",
       "slug": "chapter-17",
-      "date": "2026-08-18",
-      "words": 2047,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 2924,
+      "minutes": 12,
       "status": "published"
     },
     {
       "id": "ch-18",
       "number": 18,
       "n": 18,
-      "title": "Two Sets of Books",
+      "title": "A Real Ward",
       "file": "chapters/chapter-18.html",
       "slug": "chapter-18",
-      "date": "2026-08-19",
-      "words": 3527,
-      "minutes": 14,
+      "date": "2026-10-02",
+      "words": 2430,
+      "minutes": 10,
       "status": "published"
     },
     {
       "id": "ch-19",
       "number": 19,
       "n": 19,
-      "title": "What Petram Trades",
+      "title": "Three Farmers",
       "file": "chapters/chapter-19.html",
       "slug": "chapter-19",
-      "date": "2026-08-19",
-      "words": 2006,
-      "minutes": 8,
+      "date": "2026-10-02",
+      "words": 2413,
+      "minutes": 10,
       "status": "published"
     },
     {
       "id": "ch-20",
       "number": 20,
       "n": 20,
-      "title": "The Crown's Judgment",
+      "title": "The Mill",
       "file": "chapters/chapter-20.html",
       "slug": "chapter-20",
-      "date": "2026-08-21",
-      "words": 2601,
-      "minutes": 10,
+      "date": "2026-10-02",
+      "words": 2732,
+      "minutes": 11,
       "status": "published"
     },
     {
       "id": "ch-21",
       "number": 21,
       "n": 21,
-      "title": "Six Days South",
+      "title": "Hundredweight",
       "file": "chapters/chapter-21.html",
       "slug": "chapter-21",
-      "date": "2026-08-22",
-      "words": 2201,
-      "minutes": 9,
+      "date": "2026-10-02",
+      "words": 3085,
+      "minutes": 12,
       "status": "published"
     },
     {
@@ -263,9 +263,9 @@
       "file": "chapters/chapter-22.html",
       "slug": "chapter-22",
       "date": "2026-08-23",
-      "words": 3350,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-23",
@@ -275,9 +275,9 @@
       "file": "chapters/chapter-23.html",
       "slug": "chapter-23",
       "date": "2026-08-24",
-      "words": 3528,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-24",
@@ -287,9 +287,9 @@
       "file": "chapters/chapter-24.html",
       "slug": "chapter-24",
       "date": "2026-08-25",
-      "words": 3435,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-25",
@@ -299,9 +299,9 @@
       "file": "chapters/chapter-25.html",
       "slug": "chapter-25",
       "date": "2026-08-26",
-      "words": 2786,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-26",
@@ -311,9 +311,9 @@
       "file": "chapters/chapter-26.html",
       "slug": "chapter-26",
       "date": "2026-08-27",
-      "words": 2686,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-27",
@@ -323,9 +323,9 @@
       "file": "chapters/chapter-27.html",
       "slug": "chapter-27",
       "date": "2026-08-28",
-      "words": 3380,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-28",
@@ -335,9 +335,9 @@
       "file": "chapters/chapter-28.html",
       "slug": "chapter-28",
       "date": "2026-08-29",
-      "words": 2775,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-29",
@@ -347,9 +347,9 @@
       "file": "chapters/chapter-29.html",
       "slug": "chapter-29",
       "date": "2026-08-30",
-      "words": 2741,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-30",
@@ -359,9 +359,9 @@
       "file": "chapters/chapter-30.html",
       "slug": "chapter-30",
       "date": "2026-08-31",
-      "words": 4093,
-      "minutes": 16,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-31",
@@ -371,9 +371,9 @@
       "file": "chapters/chapter-31.html",
       "slug": "chapter-31",
       "date": "2026-09-01",
-      "words": 4629,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-32",
@@ -383,9 +383,9 @@
       "file": "chapters/chapter-32.html",
       "slug": "chapter-32",
       "date": "2026-08-19",
-      "words": 4382,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-33",
@@ -395,9 +395,9 @@
       "file": "chapters/chapter-33.html",
       "slug": "chapter-33",
       "date": "2026-08-19",
-      "words": 6723,
-      "minutes": 27,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-34",
@@ -407,9 +407,9 @@
       "file": "chapters/chapter-34.html",
       "slug": "chapter-34",
       "date": "2026-08-19",
-      "words": 2789,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-35",
@@ -419,9 +419,9 @@
       "file": "chapters/chapter-35.html",
       "slug": "chapter-35",
       "date": "2026-08-19",
-      "words": 3674,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-36",
@@ -431,9 +431,9 @@
       "file": "chapters/chapter-36.html",
       "slug": "chapter-36",
       "date": "2026-08-22",
-      "words": 3050,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-37",
@@ -443,9 +443,9 @@
       "file": "chapters/chapter-37.html",
       "slug": "chapter-37",
       "date": "2026-08-22",
-      "words": 3628,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-38",
@@ -455,9 +455,9 @@
       "file": "chapters/chapter-38.html",
       "slug": "chapter-38",
       "date": "2026-08-23",
-      "words": 3269,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-39",
@@ -467,9 +467,9 @@
       "file": "chapters/chapter-39.html",
       "slug": "chapter-39",
       "date": "2026-08-23",
-      "words": 2616,
-      "minutes": 10,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-40",
@@ -479,9 +479,9 @@
       "file": "chapters/chapter-40.html",
       "slug": "chapter-40",
       "date": "2026-08-23",
-      "words": 3317,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-41",
@@ -491,9 +491,9 @@
       "file": "chapters/chapter-41.html",
       "slug": "chapter-41",
       "date": "2026-08-24",
-      "words": 3306,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-42",
@@ -503,9 +503,9 @@
       "file": "chapters/chapter-42.html",
       "slug": "chapter-42",
       "date": "2026-08-24",
-      "words": 3656,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-43",
@@ -515,9 +515,9 @@
       "file": "chapters/chapter-43.html",
       "slug": "chapter-43",
       "date": "2026-09-17",
-      "words": 7293,
-      "minutes": 29,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-44",
@@ -527,9 +527,9 @@
       "file": "chapters/chapter-44.html",
       "slug": "chapter-44",
       "date": "2026-08-25",
-      "words": 3388,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-45",
@@ -539,9 +539,9 @@
       "file": "chapters/chapter-45.html",
       "slug": "chapter-45",
       "date": "2026-08-25",
-      "words": 4145,
-      "minutes": 17,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-46",
@@ -551,9 +551,9 @@
       "file": "chapters/chapter-46.html",
       "slug": "chapter-46",
       "date": "2026-08-25",
-      "words": 3183,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-47",
@@ -563,9 +563,9 @@
       "file": "chapters/chapter-47.html",
       "slug": "chapter-47",
       "date": "2026-08-25",
-      "words": 3019,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-48",
@@ -575,9 +575,9 @@
       "file": "chapters/chapter-48.html",
       "slug": "chapter-48",
       "date": "2026-08-28",
-      "words": 3117,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-49",
@@ -587,9 +587,9 @@
       "file": "chapters/chapter-49.html",
       "slug": "chapter-49",
       "date": "2026-08-28",
-      "words": 3517,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-50",
@@ -599,9 +599,9 @@
       "file": "chapters/chapter-50.html",
       "slug": "chapter-50",
       "date": "2026-08-30",
-      "words": 2799,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-51",
@@ -611,9 +611,9 @@
       "file": "chapters/chapter-51.html",
       "slug": "chapter-51",
       "date": "2026-08-31",
-      "words": 5001,
-      "minutes": 20,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-52",
@@ -623,9 +623,9 @@
       "file": "chapters/chapter-52.html",
       "slug": "chapter-52",
       "date": "2026-09-01",
-      "words": 5115,
-      "minutes": 20,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-53",
@@ -635,9 +635,9 @@
       "file": "chapters/chapter-53.html",
       "slug": "chapter-53",
       "date": "2026-09-01",
-      "words": 3502,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-54",
@@ -647,9 +647,9 @@
       "file": "chapters/chapter-54.html",
       "slug": "chapter-54",
       "date": "2026-09-17",
-      "words": 3117,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-55",
@@ -659,9 +659,9 @@
       "file": "chapters/chapter-55.html",
       "slug": "chapter-55",
       "date": "2026-09-17",
-      "words": 1996,
-      "minutes": 8,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-56",
@@ -671,9 +671,9 @@
       "file": "chapters/chapter-56.html",
       "slug": "chapter-56",
       "date": "2026-09-17",
-      "words": 6141,
-      "minutes": 25,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-57",
@@ -683,9 +683,9 @@
       "file": "chapters/chapter-57.html",
       "slug": "chapter-57",
       "date": "2026-09-17",
-      "words": 3481,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-58",
@@ -695,9 +695,9 @@
       "file": "chapters/chapter-58.html",
       "slug": "chapter-58",
       "date": "2026-09-17",
-      "words": 3828,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-59",
@@ -707,9 +707,9 @@
       "file": "chapters/chapter-59.html",
       "slug": "chapter-59",
       "date": "2026-09-01",
-      "words": 3969,
-      "minutes": 16,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-60",
@@ -719,9 +719,9 @@
       "file": "chapters/chapter-60.html",
       "slug": "chapter-60",
       "date": "2026-09-01",
-      "words": 3072,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-61",
@@ -731,9 +731,9 @@
       "file": "chapters/chapter-61.html",
       "slug": "chapter-61",
       "date": "2026-09-01",
-      "words": 3356,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-62",
@@ -743,9 +743,9 @@
       "file": "chapters/chapter-62.html",
       "slug": "chapter-62",
       "date": "2026-09-02",
-      "words": 3148,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-63",
@@ -755,9 +755,9 @@
       "file": "chapters/chapter-63.html",
       "slug": "chapter-63",
       "date": "2026-09-02",
-      "words": 3256,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-64",
@@ -767,9 +767,9 @@
       "file": "chapters/chapter-64.html",
       "slug": "chapter-64",
       "date": "2026-09-02",
-      "words": 4460,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-65",
@@ -779,9 +779,9 @@
       "file": "chapters/chapter-65.html",
       "slug": "chapter-65",
       "date": "2026-09-02",
-      "words": 2995,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-66",
@@ -791,9 +791,9 @@
       "file": "chapters/chapter-66.html",
       "slug": "chapter-66",
       "date": "2026-09-02",
-      "words": 3161,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-67",
@@ -803,9 +803,9 @@
       "file": "chapters/chapter-67.html",
       "slug": "chapter-67",
       "date": "2026-09-02",
-      "words": 4252,
-      "minutes": 17,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-68",
@@ -815,9 +815,9 @@
       "file": "chapters/chapter-68.html",
       "slug": "chapter-68",
       "date": "2026-09-03",
-      "words": 3199,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-69",
@@ -827,9 +827,9 @@
       "file": "chapters/chapter-69.html",
       "slug": "chapter-69",
       "date": "2026-09-03",
-      "words": 2980,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-70",
@@ -839,9 +839,9 @@
       "file": "chapters/chapter-70.html",
       "slug": "chapter-70",
       "date": "2026-09-03",
-      "words": 2651,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-71",
@@ -851,9 +851,9 @@
       "file": "chapters/chapter-71.html",
       "slug": "chapter-71",
       "date": "2026-09-03",
-      "words": 3401,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-72",
@@ -863,9 +863,9 @@
       "file": "chapters/chapter-72.html",
       "slug": "chapter-72",
       "date": "2026-09-03",
-      "words": 3013,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-73",
@@ -875,9 +875,9 @@
       "file": "chapters/chapter-73.html",
       "slug": "chapter-73",
       "date": "2026-09-03",
-      "words": 2036,
-      "minutes": 8,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-74",
@@ -887,9 +887,9 @@
       "file": "chapters/chapter-74.html",
       "slug": "chapter-74",
       "date": "2026-09-03",
-      "words": 2663,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-75",
@@ -899,9 +899,9 @@
       "file": "chapters/chapter-75.html",
       "slug": "chapter-75",
       "date": "2026-09-03",
-      "words": 5663,
-      "minutes": 23,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-76",
@@ -911,9 +911,9 @@
       "file": "chapters/chapter-76.html",
       "slug": "chapter-76",
       "date": "2026-09-03",
-      "words": 5907,
-      "minutes": 24,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-77",
@@ -923,9 +923,9 @@
       "file": "chapters/chapter-77.html",
       "slug": "chapter-77",
       "date": "2026-09-19",
-      "words": 4085,
-      "minutes": 16,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-78",
@@ -935,9 +935,9 @@
       "file": "chapters/chapter-78.html",
       "slug": "chapter-78",
       "date": "2026-09-19",
-      "words": 4508,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-79",
@@ -947,9 +947,9 @@
       "file": "chapters/chapter-79.html",
       "slug": "chapter-79",
       "date": "2026-09-19",
-      "words": 4928,
-      "minutes": 20,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-80",
@@ -959,9 +959,9 @@
       "file": "chapters/chapter-80.html",
       "slug": "chapter-80",
       "date": "2026-09-19",
-      "words": 4709,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-81",
@@ -971,9 +971,9 @@
       "file": "chapters/chapter-81.html",
       "slug": "chapter-81",
       "date": "2026-09-19",
-      "words": 3880,
-      "minutes": 16,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-82",
@@ -983,9 +983,9 @@
       "file": "chapters/chapter-82.html",
       "slug": "chapter-82",
       "date": "2026-09-19",
-      "words": 4686,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-83",
@@ -995,9 +995,9 @@
       "file": "chapters/chapter-83.html",
       "slug": "chapter-83",
       "date": "2026-09-19",
-      "words": 3331,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-84",
@@ -1007,9 +1007,9 @@
       "file": "chapters/chapter-84.html",
       "slug": "chapter-84",
       "date": "2026-09-19",
-      "words": 4294,
-      "minutes": 17,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-85",
@@ -1019,9 +1019,9 @@
       "file": "chapters/chapter-85.html",
       "slug": "chapter-85",
       "date": "2026-09-19",
-      "words": 3063,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-86",
@@ -1031,9 +1031,9 @@
       "file": "chapters/chapter-86.html",
       "slug": "chapter-86",
       "date": "2026-09-19",
-      "words": 3609,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-87",
@@ -1043,9 +1043,9 @@
       "file": "chapters/chapter-87.html",
       "slug": "chapter-87",
       "date": "2026-09-19",
-      "words": 3860,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-88",
@@ -1055,9 +1055,9 @@
       "file": "chapters/chapter-88.html",
       "slug": "chapter-88",
       "date": "2026-09-19",
-      "words": 4781,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-89",
@@ -1067,9 +1067,9 @@
       "file": "chapters/chapter-89.html",
       "slug": "chapter-89",
       "date": "2026-09-19",
-      "words": 4577,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-90",
@@ -1079,9 +1079,9 @@
       "file": "chapters/chapter-90.html",
       "slug": "chapter-90",
       "date": "2026-09-19",
-      "words": 2863,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-91",
@@ -1091,9 +1091,9 @@
       "file": "chapters/chapter-91.html",
       "slug": "chapter-91",
       "date": "2026-09-19",
-      "words": 4397,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-92",
@@ -1103,9 +1103,9 @@
       "file": "chapters/chapter-92.html",
       "slug": "chapter-92",
       "date": "2026-09-19",
-      "words": 3737,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-93",
@@ -1115,9 +1115,9 @@
       "file": "chapters/chapter-93.html",
       "slug": "chapter-93",
       "date": "2026-09-21",
-      "words": 2710,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-94",
@@ -1127,9 +1127,9 @@
       "file": "chapters/chapter-94.html",
       "slug": "chapter-94",
       "date": "2026-09-19",
-      "words": 2949,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-95",
@@ -1139,9 +1139,9 @@
       "file": "chapters/chapter-95.html",
       "slug": "chapter-95",
       "date": "2026-09-19",
-      "words": 4357,
-      "minutes": 17,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-96",
@@ -1151,9 +1151,9 @@
       "file": "chapters/chapter-96.html",
       "slug": "chapter-96",
       "date": "2026-09-21",
-      "words": 2341,
-      "minutes": 9,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-97",
@@ -1163,9 +1163,9 @@
       "file": "chapters/chapter-97.html",
       "slug": "chapter-97",
       "date": "2026-09-19",
-      "words": 4759,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-98",
@@ -1175,9 +1175,9 @@
       "file": "chapters/chapter-98.html",
       "slug": "chapter-98",
       "date": "2026-09-20",
-      "words": 4127,
-      "minutes": 17,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-99",
@@ -1187,9 +1187,9 @@
       "file": "chapters/chapter-99.html",
       "slug": "chapter-99",
       "date": "2026-09-21",
-      "words": 2293,
-      "minutes": 9,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-100",
@@ -1199,9 +1199,9 @@
       "file": "chapters/chapter-100.html",
       "slug": "chapter-100",
       "date": "2026-09-20",
-      "words": 3525,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-101",
@@ -1211,9 +1211,9 @@
       "file": "chapters/chapter-101.html",
       "slug": "chapter-101",
       "date": "2026-09-20",
-      "words": 3493,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-102",
@@ -1223,9 +1223,9 @@
       "file": "chapters/chapter-102.html",
       "slug": "chapter-102",
       "date": "2026-09-20",
-      "words": 3074,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-103",
@@ -1235,9 +1235,9 @@
       "file": "chapters/chapter-103.html",
       "slug": "chapter-103",
       "date": "2026-09-20",
-      "words": 3269,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-104",
@@ -1247,9 +1247,9 @@
       "file": "chapters/chapter-104.html",
       "slug": "chapter-104",
       "date": "2026-09-20",
-      "words": 2836,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-105",
@@ -1259,9 +1259,9 @@
       "file": "chapters/chapter-105.html",
       "slug": "chapter-105",
       "date": "2026-09-21",
-      "words": 2745,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-106",
@@ -1271,9 +1271,9 @@
       "file": "chapters/chapter-106.html",
       "slug": "chapter-106",
       "date": "2026-09-20",
-      "words": 3112,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-107",
@@ -1283,9 +1283,9 @@
       "file": "chapters/chapter-107.html",
       "slug": "chapter-107",
       "date": "2026-09-21",
-      "words": 2302,
-      "minutes": 9,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-108",
@@ -1295,9 +1295,9 @@
       "file": "chapters/chapter-108.html",
       "slug": "chapter-108",
       "date": "2026-09-20",
-      "words": 2807,
-      "minutes": 11,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-109",
@@ -1307,9 +1307,9 @@
       "file": "chapters/chapter-109.html",
       "slug": "chapter-109",
       "date": "2026-09-20",
-      "words": 8967,
-      "minutes": 36,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-110",
@@ -1319,9 +1319,9 @@
       "file": "chapters/chapter-110.html",
       "slug": "chapter-110",
       "date": "2026-09-20",
-      "words": 3473,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-111",
@@ -1331,9 +1331,9 @@
       "file": "chapters/chapter-111.html",
       "slug": "chapter-111",
       "date": "2026-09-20",
-      "words": 4463,
-      "minutes": 18,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-112",
@@ -1343,9 +1343,9 @@
       "file": "chapters/chapter-112.html",
       "slug": "chapter-112",
       "date": "2026-09-20",
-      "words": 4744,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-113",
@@ -1355,9 +1355,9 @@
       "file": "chapters/chapter-113.html",
       "slug": "chapter-113",
       "date": "2026-09-22",
-      "words": 7009,
-      "minutes": 28,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-114",
@@ -1367,9 +1367,9 @@
       "file": "chapters/chapter-114.html",
       "slug": "chapter-114",
       "date": "2026-09-22",
-      "words": 4724,
-      "minutes": 19,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-115",
@@ -1379,9 +1379,9 @@
       "file": "chapters/chapter-115.html",
       "slug": "chapter-115",
       "date": "2026-09-22",
-      "words": 2996,
-      "minutes": 12,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-116",
@@ -1391,9 +1391,9 @@
       "file": "chapters/chapter-116.html",
       "slug": "chapter-116",
       "date": "2026-09-22",
-      "words": 5460,
-      "minutes": 22,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-117",
@@ -1403,9 +1403,9 @@
       "file": "chapters/chapter-117.html",
       "slug": "chapter-117",
       "date": "2026-09-22",
-      "words": 3182,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-118",
@@ -1415,9 +1415,9 @@
       "file": "chapters/chapter-118.html",
       "slug": "chapter-118",
       "date": "2026-09-22",
-      "words": 5092,
-      "minutes": 20,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-119",
@@ -1427,9 +1427,9 @@
       "file": "chapters/chapter-119.html",
       "slug": "chapter-119",
       "date": "2026-09-22",
-      "words": 3352,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-120",
@@ -1439,9 +1439,9 @@
       "file": "chapters/chapter-120.html",
       "slug": "chapter-120",
       "date": "2026-09-22",
-      "words": 3608,
-      "minutes": 14,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-121",
@@ -1451,9 +1451,9 @@
       "file": "chapters/chapter-121.html",
       "slug": "chapter-121",
       "date": "2026-09-22",
-      "words": 3369,
-      "minutes": 13,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-122",
@@ -1463,9 +1463,9 @@
       "file": "chapters/chapter-122.html",
       "slug": "chapter-122",
       "date": "2026-09-22",
-      "words": 2197,
-      "minutes": 9,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-123",
@@ -1475,9 +1475,9 @@
       "file": "chapters/chapter-123.html",
       "slug": "chapter-123",
       "date": "2026-09-22",
-      "words": 2300,
-      "minutes": 9,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-124",
@@ -1559,9 +1559,9 @@
       "file": "chapters/chapter-130.html",
       "slug": "chapter-130",
       "date": "2026-09-22",
-      "words": 3826,
-      "minutes": 15,
-      "status": "published"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-131",
@@ -2243,9 +2243,9 @@
       "file": "chapters/chapter-187.html",
       "slug": "chapter-187",
       "date": "2026-09-26",
-      "words": 3600,
-      "minutes": 15,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-188",
@@ -2255,9 +2255,9 @@
       "file": "chapters/chapter-188.html",
       "slug": "chapter-188",
       "date": "2026-09-26",
-      "words": 7268,
-      "minutes": 30,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-189",
@@ -2267,9 +2267,9 @@
       "file": "chapters/chapter-189.html",
       "slug": "chapter-189",
       "date": "2026-09-26",
-      "words": 5449,
-      "minutes": 22,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-190",
@@ -2279,9 +2279,9 @@
       "file": "chapters/chapter-190.html",
       "slug": "chapter-190",
       "date": "2026-09-26",
-      "words": 6601,
-      "minutes": 27,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-191",
@@ -2291,9 +2291,9 @@
       "file": "chapters/chapter-191.html",
       "slug": "chapter-191",
       "date": "2026-09-26",
-      "words": 4783,
-      "minutes": 20,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-192",
@@ -2303,9 +2303,9 @@
       "file": "chapters/chapter-192.html",
       "slug": "chapter-192",
       "date": "2026-09-26",
-      "words": 3938,
-      "minutes": 16,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-193",
@@ -2315,9 +2315,9 @@
       "file": "chapters/chapter-193.html",
       "slug": "chapter-193",
       "date": "2026-09-26",
-      "words": 4705,
-      "minutes": 19,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-194",
@@ -2327,9 +2327,9 @@
       "file": "chapters/chapter-194.html",
       "slug": "chapter-194",
       "date": "2026-09-26",
-      "words": 5095,
-      "minutes": 21,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-195",
@@ -2339,9 +2339,9 @@
       "file": "chapters/chapter-195.html",
       "slug": "chapter-195",
       "date": "2026-09-26",
-      "words": 4908,
-      "minutes": 20,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-196",
@@ -2351,9 +2351,9 @@
       "file": "chapters/chapter-196.html",
       "slug": "chapter-196",
       "date": "2026-09-26",
-      "words": 6633,
-      "minutes": 27,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-197",
@@ -2363,9 +2363,9 @@
       "file": "chapters/chapter-197.html",
       "slug": "chapter-197",
       "date": "2026-09-27",
-      "words": 6139,
-      "minutes": 25,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-198",
@@ -2375,9 +2375,9 @@
       "file": "chapters/chapter-198.html",
       "slug": "chapter-198",
       "date": "2026-09-27",
-      "words": 5680,
-      "minutes": 23,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-199",
@@ -2387,9 +2387,9 @@
       "file": "chapters/chapter-199.html",
       "slug": "chapter-199",
       "date": "2026-09-26",
-      "words": 4584,
-      "minutes": 19,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-200",
@@ -2399,9 +2399,9 @@
       "file": "chapters/chapter-200.html",
       "slug": "chapter-200",
       "date": "2026-09-26",
-      "words": 4544,
-      "minutes": 19,
-      "status": "draft"
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
     },
     {
       "id": "ch-201",
