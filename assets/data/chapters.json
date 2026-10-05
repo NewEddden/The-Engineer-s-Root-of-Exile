@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite note (2026-10-04): ch 1-63 are the slow rewrite (ch 1-21 drafted 2026-10-03 and edited 2026-10-04; ch 22-63 drafted 2026-10-04). Ch 1-33 are Arc 1; ch 34 onward is Arc 2. Ch 64+ keep the old fast-draft titles and stay planned until the rewrite reaches them.",
+  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite note (2026-10-04): ch 1-69 are the slow rewrite (ch 1-21 drafted 2026-10-03 and edited 2026-10-04; ch 22-69 drafted 2026-10-04). Ch 1-33 are Arc 1; ch 34-69 are Arc 2. Ch 70+ keep the old fast-draft titles and stay planned until the rewrite reaches them.",
   "title": "The Engineer's Root of Exile",
   "subtitle": "A Novel",
   "chapters": [
@@ -755,7 +755,7 @@
       "file": "chapters/chapter-63.html",
       "slug": "chapter-63",
       "date": "2026-10-04",
-      "words": 3004,
+      "words": 3003,
       "minutes": 12,
       "status": "published"
     },
@@ -766,10 +766,10 @@
       "title": "The Break",
       "file": "chapters/chapter-64.html",
       "slug": "chapter-64",
-      "date": "2026-09-02",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2864,
+      "minutes": 11,
+      "status": "published"
     },
     {
       "id": "ch-65",
@@ -778,10 +778,10 @@
       "title": "Forty Minutes",
       "file": "chapters/chapter-65.html",
       "slug": "chapter-65",
-      "date": "2026-09-02",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2753,
+      "minutes": 11,
+      "status": "published"
     },
     {
       "id": "ch-66",
@@ -790,10 +790,10 @@
       "title": "Ash",
       "file": "chapters/chapter-66.html",
       "slug": "chapter-66",
-      "date": "2026-09-02",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2945,
+      "minutes": 12,
+      "status": "published"
     },
     {
       "id": "ch-67",
@@ -802,10 +802,10 @@
       "title": "Out by Everything",
       "file": "chapters/chapter-67.html",
       "slug": "chapter-67",
-      "date": "2026-09-02",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2591,
+      "minutes": 10,
+      "status": "published"
     },
     {
       "id": "ch-68",
@@ -814,10 +814,10 @@
       "title": "Terms",
       "file": "chapters/chapter-68.html",
       "slug": "chapter-68",
-      "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2481,
+      "minutes": 10,
+      "status": "published"
     },
     {
       "id": "ch-69",
@@ -826,10 +826,10 @@
       "title": "Vantic",
       "file": "chapters/chapter-69.html",
       "slug": "chapter-69",
-      "date": "2026-09-03",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-04",
+      "words": 2719,
+      "minutes": 11,
+      "status": "published"
     },
     {
       "id": "ch-70",
