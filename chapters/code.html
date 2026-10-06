@@ -1,0 +1,36 @@
+MAX_WEIGHT = 15
+MAX_DISTANCE = 30
+
+
+def rateGetter(weight):
+    if weight <= 5:
+        return 6.00
+    elif weight <= 10:
+        return 8.00
+    else:
+        return 10.00
+
+
+def distanceGetter(distance):
+    if distance <= 10:
+        return 0.50
+    elif distance <= 20:
+        return 1.00
+    else:
+        return 1.50
+
+
+weight = float(input("Enter package weight: "))
+distance = float(input("Enter distance: "))
+
+if weight > MAX_WEIGHT or distance > MAX_DISTANCE:
+    print("Error: This package cannot be accepted.")
+else:
+    rate = rateGetter(weight)
+    increase = distanceGetter(distance)
+
+    total = rate + (rate * increase)
+
+    print("Base rate: $", format(rate, ".2f"))
+    print("Distance increase:", format(increase * 100, ".0f"), "%")
+    print("Total shipping cost: $", format(total, ".2f"))
