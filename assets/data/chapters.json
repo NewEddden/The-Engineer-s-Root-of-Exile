@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-73 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70). Ch 74-330 are planned titles from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired.",
+  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-87 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70; ch 74-87 drafted 2026-10-09). Ch 88-330 are planned titles from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired.",
   "title": "The Engineer's Root of Exile",
   "subtitle": "A Novel",
   "chapters": [
@@ -875,7 +875,7 @@
       "file": "chapters/chapter-73.html",
       "slug": "chapter-73",
       "date": "2026-10-07",
-      "words": 3397,
+      "words": 3400,
       "minutes": 14,
       "status": "published"
     },
@@ -886,10 +886,10 @@
       "title": "One Room",
       "file": "chapters/chapter-74.html",
       "slug": "chapter-74",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3020,
+      "minutes": 12,
+      "status": "published"
     },
     {
       "id": "ch-75",
@@ -898,10 +898,10 @@
       "title": "Who Carries It",
       "file": "chapters/chapter-75.html",
       "slug": "chapter-75",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 2911,
+      "minutes": 12,
+      "status": "published"
     },
     {
       "id": "ch-76",
@@ -910,10 +910,10 @@
       "title": "Post Horses",
       "file": "chapters/chapter-76.html",
       "slug": "chapter-76",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3908,
+      "minutes": 16,
+      "status": "published"
     },
     {
       "id": "ch-77",
@@ -922,10 +922,10 @@
       "title": "The Most Lawful Man",
       "file": "chapters/chapter-77.html",
       "slug": "chapter-77",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 2675,
+      "minutes": 11,
+      "status": "published"
     },
     {
       "id": "ch-78",
@@ -934,10 +934,10 @@
       "title": "No Audience",
       "file": "chapters/chapter-78.html",
       "slug": "chapter-78",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3662,
+      "minutes": 15,
+      "status": "published"
     },
     {
       "id": "ch-79",
@@ -946,10 +946,10 @@
       "title": "Midwinter",
       "file": "chapters/chapter-79.html",
       "slug": "chapter-79",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 2892,
+      "minutes": 12,
+      "status": "published"
     },
     {
       "id": "ch-80",
@@ -958,10 +958,10 @@
       "title": "Twin Mail",
       "file": "chapters/chapter-80.html",
       "slug": "chapter-80",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 2834,
+      "minutes": 11,
+      "status": "published"
     },
     {
       "id": "ch-81",
@@ -970,10 +970,10 @@
       "title": "Seven Carriers",
       "file": "chapters/chapter-81.html",
       "slug": "chapter-81",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3711,
+      "minutes": 15,
+      "status": "published"
     },
     {
       "id": "ch-82",
@@ -982,10 +982,10 @@
       "title": "Round",
       "file": "chapters/chapter-82.html",
       "slug": "chapter-82",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 4278,
+      "minutes": 17,
+      "status": "published"
     },
     {
       "id": "ch-83",
@@ -994,22 +994,22 @@
       "title": "Wheels",
       "file": "chapters/chapter-83.html",
       "slug": "chapter-83",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3223,
+      "minutes": 13,
+      "status": "published"
     },
     {
       "id": "ch-84",
       "number": 84,
       "n": 84,
-      "title": "Painted Rate",
+      "title": "Messages",
       "file": "chapters/chapter-84.html",
       "slug": "chapter-84",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 4230,
+      "minutes": 17,
+      "status": "published"
     },
     {
       "id": "ch-85",
@@ -1018,10 +1018,10 @@
       "title": "Lead Rooms",
       "file": "chapters/chapter-85.html",
       "slug": "chapter-85",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3954,
+      "minutes": 16,
+      "status": "published"
     },
     {
       "id": "ch-86",
@@ -1030,10 +1030,10 @@
       "title": "The Mark",
       "file": "chapters/chapter-86.html",
       "slug": "chapter-86",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3256,
+      "minutes": 13,
+      "status": "published"
     },
     {
       "id": "ch-87",
@@ -1042,10 +1042,10 @@
       "title": "The Holder of Grayrock",
       "file": "chapters/chapter-87.html",
       "slug": "chapter-87",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-09",
+      "words": 3359,
+      "minutes": 13,
+      "status": "published"
     },
     {
       "id": "ch-88",
@@ -1531,7 +1531,7 @@
       "id": "ch-128",
       "number": 128,
       "n": 128,
-      "title": "The Holder of Grayrock",
+      "title": "Renner's Box",
       "file": "chapters/chapter-128.html",
       "slug": "chapter-128",
       "date": "2026-10-07",
