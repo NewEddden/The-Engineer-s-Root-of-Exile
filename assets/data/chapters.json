@@ -11,8 +11,8 @@
       "file": "chapters/chapter-01.html",
       "slug": "chapter-01",
       "date": "2026-10-03",
-      "words": 5550,
-      "minutes": 22,
+      "words": 5705,
+      "minutes": 23,
       "status": "published"
     },
     {
@@ -695,7 +695,7 @@
       "file": "chapters/chapter-58.html",
       "slug": "chapter-58",
       "date": "2026-10-04",
-      "words": 3019,
+      "words": 3026,
       "minutes": 12,
       "status": "published"
     },
@@ -839,7 +839,7 @@
       "file": "chapters/chapter-70.html",
       "slug": "chapter-70",
       "date": "2026-10-06",
-      "words": 2488,
+      "words": 2483,
       "minutes": 10,
       "status": "published"
     },
@@ -1163,7 +1163,7 @@
       "file": "chapters/chapter-97.html",
       "slug": "chapter-97",
       "date": "2026-10-10",
-      "words": 4504,
+      "words": 4502,
       "minutes": 18,
       "status": "published"
     },
@@ -1271,7 +1271,7 @@
       "file": "chapters/chapter-106.html",
       "slug": "chapter-106",
       "date": "2026-10-11",
-      "words": 8705,
+      "words": 8712,
       "minutes": 35,
       "status": "published"
     },
@@ -1319,7 +1319,7 @@
       "file": "chapters/chapter-110.html",
       "slug": "chapter-110",
       "date": "2026-10-11",
-      "words": 3900,
+      "words": 3902,
       "minutes": 16,
       "status": "published"
     },
@@ -1331,7 +1331,7 @@
       "file": "chapters/chapter-111.html",
       "slug": "chapter-111",
       "date": "2026-10-11",
-      "words": 4792,
+      "words": 4800,
       "minutes": 19,
       "status": "published"
     },
@@ -1499,7 +1499,7 @@
       "file": "chapters/chapter-125.html",
       "slug": "chapter-125",
       "date": "2026-10-11",
-      "words": 3854,
+      "words": 3855,
       "minutes": 15,
       "status": "published"
     },
@@ -1739,7 +1739,7 @@
       "file": "chapters/chapter-145.html",
       "slug": "chapter-145",
       "date": "2026-10-11",
-      "words": 4945,
+      "words": 4951,
       "minutes": 20,
       "status": "published"
     },
@@ -1823,7 +1823,7 @@
       "file": "chapters/chapter-152.html",
       "slug": "chapter-152",
       "date": "2026-10-12",
-      "words": 5107,
+      "words": 5106,
       "minutes": 20,
       "status": "published"
     },
@@ -1883,7 +1883,7 @@
       "file": "chapters/chapter-157.html",
       "slug": "chapter-157",
       "date": "2026-10-12",
-      "words": 5717,
+      "words": 5718,
       "minutes": 23,
       "status": "published"
     },
@@ -1931,7 +1931,7 @@
       "file": "chapters/chapter-161.html",
       "slug": "chapter-161",
       "date": "2026-10-12",
-      "words": 4439,
+      "words": 4437,
       "minutes": 18,
       "status": "published"
     },
@@ -1967,7 +1967,7 @@
       "file": "chapters/chapter-164.html",
       "slug": "chapter-164",
       "date": "2026-10-12",
-      "words": 3059,
+      "words": 3064,
       "minutes": 12,
       "status": "published"
     },
@@ -1991,7 +1991,7 @@
       "file": "chapters/chapter-166.html",
       "slug": "chapter-166",
       "date": "2026-10-12",
-      "words": 3965,
+      "words": 3976,
       "minutes": 16,
       "status": "published"
     },
@@ -2015,7 +2015,7 @@
       "file": "chapters/chapter-168.html",
       "slug": "chapter-168",
       "date": "2026-10-12",
-      "words": 3611,
+      "words": 3608,
       "minutes": 14,
       "status": "published"
     },
@@ -2063,7 +2063,7 @@
       "file": "chapters/chapter-172.html",
       "slug": "chapter-172",
       "date": "2026-10-12",
-      "words": 4537,
+      "words": 4539,
       "minutes": 18,
       "status": "published"
     },
@@ -2111,7 +2111,7 @@
       "file": "chapters/chapter-176.html",
       "slug": "chapter-176",
       "date": "2026-10-12",
-      "words": 3870,
+      "words": 3871,
       "minutes": 15,
       "status": "published"
     },
@@ -2350,10 +2350,10 @@
       "title": "The Debt",
       "file": "chapters/chapter-196.html",
       "slug": "chapter-196",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 5240,
+      "minutes": 21,
+      "status": "published"
     },
     {
       "id": "ch-197",
@@ -2362,10 +2362,10 @@
       "title": "Salt Water",
       "file": "chapters/chapter-197.html",
       "slug": "chapter-197",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 5345,
+      "minutes": 21,
+      "status": "published"
     },
     {
       "id": "ch-198",
@@ -2374,10 +2374,10 @@
       "title": "Kaldo Black",
       "file": "chapters/chapter-198.html",
       "slug": "chapter-198",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 5822,
+      "minutes": 23,
+      "status": "published"
     },
     {
       "id": "ch-199",
@@ -2386,10 +2386,10 @@
       "title": "Wayford",
       "file": "chapters/chapter-199.html",
       "slug": "chapter-199",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 4858,
+      "minutes": 19,
+      "status": "published"
     },
     {
       "id": "ch-200",
@@ -2398,10 +2398,10 @@
       "title": "Sethe's Boxes",
       "file": "chapters/chapter-200.html",
       "slug": "chapter-200",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 3594,
+      "minutes": 14,
+      "status": "published"
     },
     {
       "id": "ch-201",
@@ -2410,10 +2410,10 @@
       "title": "The Mask",
       "file": "chapters/chapter-201.html",
       "slug": "chapter-201",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 6488,
+      "minutes": 26,
+      "status": "published"
     },
     {
       "id": "ch-202",
@@ -2422,10 +2422,10 @@
       "title": "Five Dinners",
       "file": "chapters/chapter-202.html",
       "slug": "chapter-202",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 5980,
+      "minutes": 24,
+      "status": "published"
     },
     {
       "id": "ch-203",
@@ -2434,10 +2434,10 @@
       "title": "Laundry",
       "file": "chapters/chapter-203.html",
       "slug": "chapter-203",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 4754,
+      "minutes": 19,
+      "status": "published"
     },
     {
       "id": "ch-204",
@@ -2446,10 +2446,10 @@
       "title": "Yield",
       "file": "chapters/chapter-204.html",
       "slug": "chapter-204",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 4317,
+      "minutes": 17,
+      "status": "published"
     },
     {
       "id": "ch-205",
@@ -2458,10 +2458,10 @@
       "title": "Forty and Not a Copper More",
       "file": "chapters/chapter-205.html",
       "slug": "chapter-205",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 5256,
+      "minutes": 21,
+      "status": "published"
     },
     {
       "id": "ch-206",
@@ -2470,10 +2470,10 @@
       "title": "One Night",
       "file": "chapters/chapter-206.html",
       "slug": "chapter-206",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 4934,
+      "minutes": 20,
+      "status": "published"
     },
     {
       "id": "ch-207",
@@ -2482,10 +2482,10 @@
       "title": "The Gallery",
       "file": "chapters/chapter-207.html",
       "slug": "chapter-207",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 8468,
+      "minutes": 34,
+      "status": "published"
     },
     {
       "id": "ch-208",
@@ -2494,10 +2494,10 @@
       "title": "The Cellar",
       "file": "chapters/chapter-208.html",
       "slug": "chapter-208",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 12364,
+      "minutes": 49,
+      "status": "published"
     },
     {
       "id": "ch-209",
@@ -2506,10 +2506,10 @@
       "title": "The Notice",
       "file": "chapters/chapter-209.html",
       "slug": "chapter-209",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 11873,
+      "minutes": 47,
+      "status": "published"
     },
     {
       "id": "ch-210",
@@ -2518,10 +2518,10 @@
       "title": "The Square",
       "file": "chapters/chapter-210.html",
       "slug": "chapter-210",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 12351,
+      "minutes": 49,
+      "status": "published"
     },
     {
       "id": "ch-211",
@@ -2530,10 +2530,10 @@
       "title": "Satisfied",
       "file": "chapters/chapter-211.html",
       "slug": "chapter-211",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 8731,
+      "minutes": 35,
+      "status": "published"
     },
     {
       "id": "ch-212",
@@ -2542,10 +2542,10 @@
       "title": "Gift or Leash",
       "file": "chapters/chapter-212.html",
       "slug": "chapter-212",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 7492,
+      "minutes": 30,
+      "status": "published"
     },
     {
       "id": "ch-213",
@@ -2554,10 +2554,10 @@
       "title": "Harrow Bridge",
       "file": "chapters/chapter-213.html",
       "slug": "chapter-213",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 7506,
+      "minutes": 30,
+      "status": "published"
     },
     {
       "id": "ch-214",
@@ -2566,10 +2566,10 @@
       "title": "First Blood",
       "file": "chapters/chapter-214.html",
       "slug": "chapter-214",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 8033,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-215",
@@ -2578,10 +2578,10 @@
       "title": "Dead Field",
       "file": "chapters/chapter-215.html",
       "slug": "chapter-215",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 8016,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-216",
@@ -2590,10 +2590,10 @@
       "title": "The Stream Ground",
       "file": "chapters/chapter-216.html",
       "slug": "chapter-216",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 9010,
+      "minutes": 36,
+      "status": "published"
     },
     {
       "id": "ch-217",
@@ -2602,10 +2602,10 @@
       "title": "The Oak",
       "file": "chapters/chapter-217.html",
       "slug": "chapter-217",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 7986,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-218",
@@ -2614,10 +2614,10 @@
       "title": "Blankets",
       "file": "chapters/chapter-218.html",
       "slug": "chapter-218",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 8039,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-219",
@@ -2626,10 +2626,10 @@
       "title": "The Dairy Page",
       "file": "chapters/chapter-219.html",
       "slug": "chapter-219",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-13",
+      "words": 9979,
+      "minutes": 40,
+      "status": "published"
     },
     {
       "id": "ch-220",
