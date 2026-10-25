@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-105 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70; ch 74-87 drafted 2026-10-09, ch 88-105 on 2026-10-10). Planned titles follow the current tables (Oct 12: Isolde run inserted at ch 184-187, later planned entries moved +4; the new class and Sela's eldest add eight more at ~221a, ~222a, ~231a, ~246a and ~250a-d, so planned entries from ch 227 on moved again, +8 by the end of that table) from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired. Ch 182-188 (Arc 5 Batch F) drafted 2026-10-12. Oct 12, 2026: ch 189-195 drafted (Batch AB, Arc 5 Batch G, the Rowena voyage; Arc 5 ends at ch 195).",
+  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-105 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70; ch 74-87 drafted 2026-10-09, ch 88-105 on 2026-10-10). Planned titles follow the current tables (Oct 12: Isolde run inserted at ch 184-187, later planned entries moved +4; the new class and Sela's eldest add eight more at ~221a, ~222a, ~231a, ~246a and ~250a-d, so planned entries from ch 227 on moved again, +8 by the end of that table) from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired. Ch 182-188 (Arc 5 Batch F) drafted 2026-10-12. Oct 12, 2026: ch 189-195 drafted (Batch AB, Arc 5 Batch G, the Rowena voyage; Arc 5 ends at ch 195). Oct 25, 2026: ch 274-281 (Batch AN) drafted and published; ch 263 revised (Saban's line on the second queen); words, minutes and status filled in for every chapter whose file exists; ch 281 retitled Ornament.",
   "title": "The Engineer's Root of Exile",
   "subtitle": "A Novel",
   "chapters": [
@@ -35,7 +35,7 @@
       "file": "chapters/chapter-03.html",
       "slug": "chapter-03",
       "date": "2026-10-03",
-      "words": 4169,
+      "words": 4172,
       "minutes": 17,
       "status": "published"
     },
@@ -1283,7 +1283,7 @@
       "file": "chapters/chapter-107.html",
       "slug": "chapter-107",
       "date": "2026-10-11",
-      "words": 4959,
+      "words": 4961,
       "minutes": 20,
       "status": "published"
     },
@@ -1475,7 +1475,7 @@
       "file": "chapters/chapter-123.html",
       "slug": "chapter-123",
       "date": "2026-10-11",
-      "words": 3077,
+      "words": 3106,
       "minutes": 12,
       "status": "published"
     },
@@ -2267,8 +2267,8 @@
       "file": "chapters/chapter-189.html",
       "slug": "chapter-189",
       "date": "2026-10-12",
-      "words": 9716,
-      "minutes": 39,
+      "words": 10477,
+      "minutes": 42,
       "status": "published"
     },
     {
@@ -2339,7 +2339,7 @@
       "file": "chapters/chapter-195.html",
       "slug": "chapter-195",
       "date": "2026-10-12",
-      "words": 8157,
+      "words": 8181,
       "minutes": 33,
       "status": "published"
     },
@@ -2843,8 +2843,8 @@
       "file": "chapters/chapter-237.html",
       "slug": "chapter-237",
       "date": "2026-10-14",
-      "words": 7970,
-      "minutes": 32,
+      "words": 8396,
+      "minutes": 34,
       "status": "published"
     },
     {
@@ -2903,8 +2903,8 @@
       "file": "chapters/chapter-242.html",
       "slug": "chapter-242",
       "date": "2026-10-18",
-      "words": 10536,
-      "minutes": 42,
+      "words": 10689,
+      "minutes": 43,
       "status": "published"
     },
     {
@@ -3011,7 +3011,7 @@
       "file": "chapters/chapter-251.html",
       "slug": "chapter-251",
       "date": "2026-10-19",
-      "words": 10143,
+      "words": 10138,
       "minutes": 41,
       "status": "published"
     },
@@ -3023,7 +3023,7 @@
       "file": "chapters/chapter-252.html",
       "slug": "chapter-252",
       "date": "2026-10-19",
-      "words": 10199,
+      "words": 10194,
       "minutes": 41,
       "status": "published"
     },
@@ -3035,7 +3035,7 @@
       "file": "chapters/chapter-253.html",
       "slug": "chapter-253",
       "date": "2026-10-19",
-      "words": 10082,
+      "words": 10078,
       "minutes": 40,
       "status": "published"
     },
@@ -3047,7 +3047,7 @@
       "file": "chapters/chapter-254.html",
       "slug": "chapter-254",
       "date": "2026-10-19",
-      "words": 10261,
+      "words": 10256,
       "minutes": 41,
       "status": "published"
     },
@@ -3059,7 +3059,7 @@
       "file": "chapters/chapter-255.html",
       "slug": "chapter-255",
       "date": "2026-10-19",
-      "words": 9839,
+      "words": 9833,
       "minutes": 39,
       "status": "published"
     },
@@ -3095,9 +3095,9 @@
       "file": "chapters/chapter-258.html",
       "slug": "chapter-258",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 10493,
+      "minutes": 42,
+      "status": "published"
     },
     {
       "id": "ch-259",
@@ -3107,9 +3107,9 @@
       "file": "chapters/chapter-259.html",
       "slug": "chapter-259",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 10474,
+      "minutes": 42,
+      "status": "published"
     },
     {
       "id": "ch-260",
@@ -3119,9 +3119,9 @@
       "file": "chapters/chapter-260.html",
       "slug": "chapter-260",
       "date": "2026-10-12",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 10471,
+      "minutes": 42,
+      "status": "published"
     },
     {
       "id": "ch-261",
@@ -3131,9 +3131,9 @@
       "file": "chapters/chapter-261.html",
       "slug": "chapter-261",
       "date": "2026-10-12",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 10492,
+      "minutes": 42,
+      "status": "published"
     },
     {
       "id": "ch-262",
@@ -3145,7 +3145,7 @@
       "date": "2026-10-12",
       "words": 11047,
       "minutes": 44,
-      "status": "planned"
+      "status": "published"
     },
     {
       "id": "ch-263",
@@ -3154,10 +3154,10 @@
       "title": "Bread Basket",
       "file": "chapters/chapter-263.html",
       "slug": "chapter-263",
-      "date": "2026-10-12",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 10516,
+      "minutes": 42,
+      "status": "published"
     },
     {
       "id": "ch-264",
@@ -3167,9 +3167,9 @@
       "file": "chapters/chapter-264.html",
       "slug": "chapter-264",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 11505,
+      "minutes": 46,
+      "status": "published"
     },
     {
       "id": "ch-265",
@@ -3181,7 +3181,7 @@
       "date": "2026-10-07",
       "words": 10048,
       "minutes": 40,
-      "status": "planned"
+      "status": "published"
     },
     {
       "id": "ch-266",
@@ -3193,7 +3193,7 @@
       "date": "2026-10-07",
       "words": 11581,
       "minutes": 46,
-      "status": "planned"
+      "status": "published"
     },
     {
       "id": "ch-267",
@@ -3205,7 +3205,7 @@
       "date": "2026-10-07",
       "words": 10023,
       "minutes": 40,
-      "status": "planned"
+      "status": "published"
     },
     {
       "id": "ch-268",
@@ -3215,9 +3215,9 @@
       "file": "chapters/chapter-268.html",
       "slug": "chapter-268",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 8294,
+      "minutes": 33,
+      "status": "published"
     },
     {
       "id": "ch-269",
@@ -3227,9 +3227,9 @@
       "file": "chapters/chapter-269.html",
       "slug": "chapter-269",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 7727,
+      "minutes": 31,
+      "status": "published"
     },
     {
       "id": "ch-270",
@@ -3239,9 +3239,9 @@
       "file": "chapters/chapter-270.html",
       "slug": "chapter-270",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 7660,
+      "minutes": 31,
+      "status": "published"
     },
     {
       "id": "ch-271",
@@ -3253,7 +3253,7 @@
       "date": "2026-10-07",
       "words": 9351,
       "minutes": 37,
-      "status": "planned"
+      "status": "published"
     },
     {
       "id": "ch-272",
@@ -3263,9 +3263,9 @@
       "file": "chapters/chapter-272.html",
       "slug": "chapter-272",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 8201,
+      "minutes": 33,
+      "status": "published"
     },
     {
       "id": "ch-273",
@@ -3275,9 +3275,9 @@
       "file": "chapters/chapter-273.html",
       "slug": "chapter-273",
       "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "words": 11584,
+      "minutes": 46,
+      "status": "published"
     },
     {
       "id": "ch-274",
@@ -3286,10 +3286,10 @@
       "title": "The Second Half",
       "file": "chapters/chapter-274.html",
       "slug": "chapter-274",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 7619,
+      "minutes": 30,
+      "status": "published"
     },
     {
       "id": "ch-275",
@@ -3298,10 +3298,10 @@
       "title": "Burning Water",
       "file": "chapters/chapter-275.html",
       "slug": "chapter-275",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 7567,
+      "minutes": 30,
+      "status": "published"
     },
     {
       "id": "ch-276",
@@ -3310,10 +3310,10 @@
       "title": "Valves",
       "file": "chapters/chapter-276.html",
       "slug": "chapter-276",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 6506,
+      "minutes": 26,
+      "status": "published"
     },
     {
       "id": "ch-277",
@@ -3322,10 +3322,10 @@
       "title": "Keller Counts Faces",
       "file": "chapters/chapter-277.html",
       "slug": "chapter-277",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 6314,
+      "minutes": 25,
+      "status": "published"
     },
     {
       "id": "ch-278",
@@ -3334,10 +3334,10 @@
       "title": "The Last Match",
       "file": "chapters/chapter-278.html",
       "slug": "chapter-278",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 8243,
+      "minutes": 33,
+      "status": "published"
     },
     {
       "id": "ch-279",
@@ -3346,10 +3346,10 @@
       "title": "Not Yet",
       "file": "chapters/chapter-279.html",
       "slug": "chapter-279",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 8434,
+      "minutes": 34,
+      "status": "published"
     },
     {
       "id": "ch-280",
@@ -3358,22 +3358,22 @@
       "title": "Clear Water",
       "file": "chapters/chapter-280.html",
       "slug": "chapter-280",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 7799,
+      "minutes": 31,
+      "status": "published"
     },
     {
       "id": "ch-281",
       "number": 281,
       "n": 281,
-      "title": "Dynamite",
+      "title": "Ornament",
       "file": "chapters/chapter-281.html",
       "slug": "chapter-281",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-25",
+      "words": 8063,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-282",
