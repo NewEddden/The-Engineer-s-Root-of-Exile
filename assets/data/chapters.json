@@ -3394,9 +3394,9 @@
       "title": "Black Keel",
       "file": "chapters/chapter-283.html",
       "slug": "chapter-283",
-      "date": "2026-10-25",
-      "words": 8156,
-      "minutes": 33,
+      "date": "2026-10-26",
+      "words": 9261,
+      "minutes": 37,
       "status": "published"
     },
     {
@@ -3479,7 +3479,7 @@
       "file": "chapters/chapter-290.html",
       "slug": "chapter-290",
       "date": "2026-10-26",
-      "words": 8476,
+      "words": 8501,
       "minutes": 34,
       "status": "published"
     },
@@ -3586,10 +3586,10 @@
       "title": "Two-Thirds",
       "file": "chapters/chapter-299.html",
       "slug": "chapter-299",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-26",
+      "words": 8124,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-300",
