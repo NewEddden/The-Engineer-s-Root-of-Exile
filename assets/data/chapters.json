@@ -3454,8 +3454,8 @@
       "title": "The Swarm",
       "file": "chapters/chapter-288.html",
       "slug": "chapter-288",
-      "date": "2026-10-25",
-      "words": 7191,
+      "date": "2026-10-26",
+      "words": 7201,
       "minutes": 29,
       "status": "published"
     },
@@ -3550,10 +3550,10 @@
       "title": "No Word for Interest",
       "file": "chapters/chapter-296.html",
       "slug": "chapter-296",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-10-26",
+      "words": 8001,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-297",
@@ -3587,7 +3587,7 @@
       "file": "chapters/chapter-299.html",
       "slug": "chapter-299",
       "date": "2026-10-26",
-      "words": 8124,
+      "words": 7950,
       "minutes": 32,
       "status": "published"
     },
