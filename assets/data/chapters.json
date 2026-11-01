@@ -1,5 +1,5 @@
 {
-  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-105 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70; ch 74-87 drafted 2026-10-09, ch 88-105 on 2026-10-10). Planned titles follow the current tables (Oct 12: Isolde run inserted at ch 184-187, later planned entries moved +4; the new class and Sela's eldest add eight more at ~221a, ~222a, ~231a, ~246a and ~250a-d, so planned entries from ch 227 on moved again, +8 by the end of that table) from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired. Ch 182-188 (Arc 5 Batch F) drafted 2026-10-12. Oct 12, 2026: ch 189-195 drafted (Batch AB, Arc 5 Batch G, the Rowena voyage; Arc 5 ends at ch 195). Oct 25, 2026: ch 274-281 (Batch AN) drafted and published; ch 263 revised (Saban's line on the second queen); words, minutes and status filled in for every chapter whose file exists; ch 281 retitled Ornament. Oct 27, 2026: ch 304-312 (Batch AR) drafted, words filled, published to the site the same day; ch 308 Sauce in place and planned titles from 309 on moved +1 to match the batch map; the book ends at ch 350.",
+  "_note": "Source of truth for every page. Keeps your original fields (id/number/file/words/status) plus the aliases the JS reads (n/slug/minutes). minutes is derived from words at 250 wpm; words:0 chapters show no read time. Home shows the LAST entry as 'latest'. Rewrite (2026-10-07): ch 1-105 are the slow rewrite (Arc 1 ch 1-33, Arc 2 ch 34-69, Arc 3 from ch 70; ch 74-87 drafted 2026-10-09, ch 88-105 on 2026-10-10). Planned titles follow the current tables (Oct 12: Isolde run inserted at ch 184-187, later planned entries moved +4; the new class and Sela's eldest add eight more at ~221a, ~222a, ~231a, ~246a and ~250a-d, so planned entries from ch 227 on moved again, +8 by the end of that table) from the rewrite's chapter tables (plans/chapter-tables_ch70-116.md through chapter-tables_ch291-330.md); every number past 116 is an estimate and will shift as arcs are scripted. The old fast-draft titles for ch 74-253 are retired. Ch 182-188 (Arc 5 Batch F) drafted 2026-10-12. Oct 12, 2026: ch 189-195 drafted (Batch AB, Arc 5 Batch G, the Rowena voyage; Arc 5 ends at ch 195). Oct 25, 2026: ch 274-281 (Batch AN) drafted and published; ch 263 revised (Saban's line on the second queen); words, minutes and status filled in for every chapter whose file exists; ch 281 retitled Ornament. Oct 27, 2026: ch 304-312 (Batch AR) drafted, words filled, published to the site the same day; ch 308 Sauce in place and planned titles from 309 on moved +1 to match the batch map; the book ends at ch 350. Nov 1, 2026: ch 313-320 (Batch AS) drafted and published; ch 312 revised (the stable scene with Waylon added); words, minutes, dates and status filled in.",
   "title": "The Engineer's Root of Exile",
   "subtitle": "A Novel",
   "chapters": [
@@ -3742,9 +3742,9 @@
       "title": "My Man in the Capital",
       "file": "chapters/chapter-312.html",
       "slug": "chapter-312",
-      "date": "2026-10-27",
-      "words": 9491,
-      "minutes": 38,
+      "date": "2026-11-01",
+      "words": 10894,
+      "minutes": 44,
       "status": "published"
     },
     {
@@ -3754,10 +3754,10 @@
       "title": "No Loans",
       "file": "chapters/chapter-313.html",
       "slug": "chapter-313",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 10313,
+      "minutes": 41,
+      "status": "published"
     },
     {
       "id": "ch-314",
@@ -3766,10 +3766,10 @@
       "title": "Black Hull",
       "file": "chapters/chapter-314.html",
       "slug": "chapter-314",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 10371,
+      "minutes": 41,
+      "status": "published"
     },
     {
       "id": "ch-315",
@@ -3778,10 +3778,10 @@
       "title": "Talking in Cipher",
       "file": "chapters/chapter-315.html",
       "slug": "chapter-315",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 9855,
+      "minutes": 39,
+      "status": "published"
     },
     {
       "id": "ch-316",
@@ -3790,10 +3790,10 @@
       "title": "The Claim",
       "file": "chapters/chapter-316.html",
       "slug": "chapter-316",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 9439,
+      "minutes": 38,
+      "status": "published"
     },
     {
       "id": "ch-317",
@@ -3802,10 +3802,10 @@
       "title": "Corbin's Price",
       "file": "chapters/chapter-317.html",
       "slug": "chapter-317",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 7982,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-318",
@@ -3814,10 +3814,10 @@
       "title": "By the Cartridge",
       "file": "chapters/chapter-318.html",
       "slug": "chapter-318",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 7723,
+      "minutes": 31,
+      "status": "published"
     },
     {
       "id": "ch-319",
@@ -3826,10 +3826,10 @@
       "title": "Rods",
       "file": "chapters/chapter-319.html",
       "slug": "chapter-319",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 5669,
+      "minutes": 23,
+      "status": "published"
     },
     {
       "id": "ch-320",
@@ -3838,10 +3838,10 @@
       "title": "Leaflets",
       "file": "chapters/chapter-320.html",
       "slug": "chapter-320",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 9139,
+      "minutes": 37,
+      "status": "published"
     },
     {
       "id": "ch-321",
