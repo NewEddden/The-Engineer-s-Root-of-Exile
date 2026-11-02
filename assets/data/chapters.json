@@ -3946,10 +3946,10 @@
       "title": "He Comes Anyway",
       "file": "chapters/chapter-329.html",
       "slug": "chapter-329",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 8993,
+      "minutes": 36,
+      "status": "published"
     },
     {
       "id": "ch-330",
@@ -3958,10 +3958,10 @@
       "title": "The Same Breath",
       "file": "chapters/chapter-330.html",
       "slug": "chapter-330",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 8821,
+      "minutes": 35,
+      "status": "published"
     },
     {
       "id": "ch-331",
@@ -3970,10 +3970,10 @@
       "title": "The Pitch Lake",
       "file": "chapters/chapter-331.html",
       "slug": "chapter-331",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 8973,
+      "minutes": 36,
+      "status": "published"
     },
     {
       "id": "ch-332",
@@ -3982,10 +3982,10 @@
       "title": "The First Queen",
       "file": "chapters/chapter-332.html",
       "slug": "chapter-332",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 7981,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-333",
@@ -3994,10 +3994,10 @@
       "title": "Cold and Very Large",
       "file": "chapters/chapter-333.html",
       "slug": "chapter-333",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 7992,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-334",
@@ -4006,10 +4006,10 @@
       "title": "Grier",
       "file": "chapters/chapter-334.html",
       "slug": "chapter-334",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 8057,
+      "minutes": 32,
+      "status": "published"
     },
     {
       "id": "ch-335",
@@ -4018,10 +4018,10 @@
       "title": "What His Patron Wanted",
       "file": "chapters/chapter-335.html",
       "slug": "chapter-335",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 10073,
+      "minutes": 40,
+      "status": "published"
     },
     {
       "id": "ch-336",
@@ -4030,10 +4030,10 @@
       "title": "The Survey",
       "file": "chapters/chapter-336.html",
       "slug": "chapter-336",
-      "date": "2026-10-07",
-      "words": 0,
-      "minutes": 0,
-      "status": "planned"
+      "date": "2026-11-01",
+      "words": 9517,
+      "minutes": 38,
+      "status": "published"
     },
     {
       "id": "ch-337",
@@ -4198,6 +4198,18 @@
       "title": "Root of Exile",
       "file": "chapters/chapter-350.html",
       "slug": "chapter-350",
+      "date": "2026-10-07",
+      "words": 0,
+      "minutes": 0,
+      "status": "planned"
+    },
+    {
+      "id": "ch-351",
+      "number": 351,
+      "n": 351,
+      "title": "Lights in the Lee",
+      "file": "chapters/chapter-351.html",
+      "slug": "chapter-351",
       "date": "2026-10-07",
       "words": 0,
       "minutes": 0,
