@@ -4322,6 +4322,18 @@
       "words": 7198,
       "minutes": 29,
       "status": "published"
+    },
+    {
+      "id": "ch-361",
+      "number": 361,
+      "n": 361,
+      "title": "Five and a Little",
+      "file": "chapters/chapter-361.html",
+      "slug": "chapter-361",
+      "date": "2026-11-08",
+      "words": 4599,
+      "minutes": 18,
+      "status": "published"
     }
   ]
 }
