@@ -4370,6 +4370,18 @@
       "words": 5467,
       "minutes": 22,
       "status": "published"
+    },
+    {
+      "id": "ch-365",
+      "number": 365,
+      "n": 365,
+      "title": "Full",
+      "file": "chapters/chapter-365.html",
+      "slug": "chapter-365",
+      "date": "2026-11-08",
+      "words": 4649,
+      "minutes": 19,
+      "status": "published"
     }
   ]
 }
