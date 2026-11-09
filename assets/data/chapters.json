@@ -4454,6 +4454,18 @@
       "words": 5437,
       "minutes": 22,
       "status": "published"
+    },
+    {
+      "id": "ch-372",
+      "number": 372,
+      "n": 372,
+      "title": "The Line Sits",
+      "file": "chapters/chapter-372.html",
+      "slug": "chapter-372",
+      "date": "2026-11-08",
+      "words": 5205,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
