@@ -4490,6 +4490,18 @@
       "words": 5636,
       "minutes": 23,
       "status": "published"
+    },
+    {
+      "id": "ch-375",
+      "number": 375,
+      "n": 375,
+      "title": "Mother",
+      "file": "chapters/chapter-375.html",
+      "slug": "chapter-375",
+      "date": "2026-11-08",
+      "words": 4313,
+      "minutes": 17,
+      "status": "published"
     }
   ]
 }
