@@ -4466,6 +4466,18 @@
       "words": 5205,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-373",
+      "number": 373,
+      "n": 373,
+      "title": "Towers",
+      "file": "chapters/chapter-373.html",
+      "slug": "chapter-373",
+      "date": "2026-11-08",
+      "words": 4074,
+      "minutes": 16,
+      "status": "published"
     }
   ]
 }
