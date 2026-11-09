@@ -4610,6 +4610,18 @@
       "words": 4602,
       "minutes": 18,
       "status": "published"
+    },
+    {
+      "id": "ch-385",
+      "number": 385,
+      "n": 385,
+      "title": "Twelve Berths",
+      "file": "chapters/chapter-385.html",
+      "slug": "chapter-385",
+      "date": "2026-11-08",
+      "words": 5235,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
