@@ -4634,6 +4634,18 @@
       "words": 7356,
       "minutes": 29,
       "status": "published"
+    },
+    {
+      "id": "ch-387",
+      "number": 387,
+      "n": 387,
+      "title": "Burned",
+      "file": "chapters/chapter-387.html",
+      "slug": "chapter-387",
+      "date": "2026-11-08",
+      "words": 8337,
+      "minutes": 33,
+      "status": "published"
     }
   ]
 }
