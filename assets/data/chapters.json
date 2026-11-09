@@ -4646,6 +4646,18 @@
       "words": 8337,
       "minutes": 33,
       "status": "published"
+    },
+    {
+      "id": "ch-388",
+      "number": 388,
+      "n": 388,
+      "title": "Loaded",
+      "file": "chapters/chapter-388.html",
+      "slug": "chapter-388",
+      "date": "2026-11-08",
+      "words": 4988,
+      "minutes": 20,
+      "status": "published"
     }
   ]
 }
