@@ -4550,6 +4550,18 @@
       "words": 5263,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-380",
+      "number": 380,
+      "n": 380,
+      "title": "Forty Tonnes, Times Six",
+      "file": "chapters/chapter-380.html",
+      "slug": "chapter-380",
+      "date": "2026-11-08",
+      "words": 4583,
+      "minutes": 18,
+      "status": "published"
     }
   ]
 }
