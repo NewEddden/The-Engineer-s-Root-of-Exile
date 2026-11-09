@@ -3107,7 +3107,7 @@
       "file": "chapters/chapter-259.html",
       "slug": "chapter-259",
       "date": "2026-10-07",
-      "words": 10306,
+      "words": 10307,
       "minutes": 41,
       "status": "published"
     },
@@ -4271,7 +4271,7 @@
       "file": "chapters/chapter-356.html",
       "slug": "chapter-356",
       "date": "2026-11-03",
-      "words": 5780,
+      "words": 5735,
       "minutes": 23,
       "status": "published"
     },
@@ -4319,7 +4319,7 @@
       "file": "chapters/chapter-360.html",
       "slug": "chapter-360",
       "date": "2026-11-03",
-      "words": 7198,
+      "words": 7159,
       "minutes": 29,
       "status": "published"
     },
@@ -4441,6 +4441,18 @@
       "date": "2026-11-08",
       "words": 3304,
       "minutes": 13,
+      "status": "published"
+    },
+    {
+      "id": "ch-371",
+      "number": 371,
+      "n": 371,
+      "title": "Hollow Night, Year Sixteen",
+      "file": "chapters/chapter-371.html",
+      "slug": "chapter-371",
+      "date": "2026-11-08",
+      "words": 5437,
+      "minutes": 22,
       "status": "published"
     }
   ]
