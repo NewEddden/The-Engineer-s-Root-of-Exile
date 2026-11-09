@@ -4382,6 +4382,18 @@
       "words": 4649,
       "minutes": 19,
       "status": "published"
+    },
+    {
+      "id": "ch-366",
+      "number": 366,
+      "n": 366,
+      "title": "The Card",
+      "file": "chapters/chapter-366.html",
+      "slug": "chapter-366",
+      "date": "2026-11-08",
+      "words": 3937,
+      "minutes": 16,
+      "status": "published"
     }
   ]
 }
