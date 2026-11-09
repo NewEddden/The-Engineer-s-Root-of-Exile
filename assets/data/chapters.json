@@ -4574,6 +4574,18 @@
       "words": 5162,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-382",
+      "number": 382,
+      "n": 382,
+      "title": "What Could Go Wrong",
+      "file": "chapters/chapter-382.html",
+      "slug": "chapter-382",
+      "date": "2026-11-08",
+      "words": 5164,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
