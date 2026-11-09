@@ -4526,6 +4526,18 @@
       "words": 6563,
       "minutes": 26,
       "status": "published"
+    },
+    {
+      "id": "ch-378",
+      "number": 378,
+      "n": 378,
+      "title": "Shards",
+      "file": "chapters/chapter-378.html",
+      "slug": "chapter-378",
+      "date": "2026-11-08",
+      "words": 5263,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
