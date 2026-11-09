@@ -4430,6 +4430,18 @@
       "words": 4449,
       "minutes": 18,
       "status": "published"
+    },
+    {
+      "id": "ch-370",
+      "number": 370,
+      "n": 370,
+      "title": "The Sharing",
+      "file": "chapters/chapter-370.html",
+      "slug": "chapter-370",
+      "date": "2026-11-08",
+      "words": 3304,
+      "minutes": 13,
+      "status": "published"
     }
   ]
 }
