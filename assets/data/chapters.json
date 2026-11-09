@@ -4514,6 +4514,18 @@
       "words": 5153,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-377",
+      "number": 377,
+      "n": 377,
+      "title": "Frames",
+      "file": "chapters/chapter-377.html",
+      "slug": "chapter-377",
+      "date": "2026-11-08",
+      "words": 6563,
+      "minutes": 26,
+      "status": "published"
     }
   ]
 }
