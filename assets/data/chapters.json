@@ -4502,6 +4502,18 @@
       "words": 4313,
       "minutes": 17,
       "status": "published"
+    },
+    {
+      "id": "ch-376",
+      "number": 376,
+      "n": 376,
+      "title": "Fire Company",
+      "file": "chapters/chapter-376.html",
+      "slug": "chapter-376",
+      "date": "2026-11-08",
+      "words": 5153,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
