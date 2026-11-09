@@ -4586,6 +4586,18 @@
       "words": 5164,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-383",
+      "number": 383,
+      "n": 383,
+      "title": "The Net",
+      "file": "chapters/chapter-383.html",
+      "slug": "chapter-383",
+      "date": "2026-11-08",
+      "words": 4914,
+      "minutes": 20,
+      "status": "published"
     }
   ]
 }
