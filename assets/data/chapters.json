@@ -4418,6 +4418,18 @@
       "words": 4078,
       "minutes": 16,
       "status": "published"
+    },
+    {
+      "id": "ch-369",
+      "number": 369,
+      "n": 369,
+      "title": "Light in Glass",
+      "file": "chapters/chapter-369.html",
+      "slug": "chapter-369",
+      "date": "2026-11-08",
+      "words": 4449,
+      "minutes": 18,
+      "status": "published"
     }
   ]
 }
