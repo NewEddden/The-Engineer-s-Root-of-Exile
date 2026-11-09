@@ -4394,6 +4394,18 @@
       "words": 3937,
       "minutes": 16,
       "status": "published"
+    },
+    {
+      "id": "ch-367",
+      "number": 367,
+      "n": 367,
+      "title": "A Heartbeat Is a Lighthouse",
+      "file": "chapters/chapter-367.html",
+      "slug": "chapter-367",
+      "date": "2026-11-08",
+      "words": 4282,
+      "minutes": 17,
+      "status": "published"
     }
   ]
 }
