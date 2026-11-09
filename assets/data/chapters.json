@@ -4334,6 +4334,18 @@
       "words": 4599,
       "minutes": 18,
       "status": "published"
+    },
+    {
+      "id": "ch-362",
+      "number": 362,
+      "n": 362,
+      "title": "The Word Room",
+      "file": "chapters/chapter-362.html",
+      "slug": "chapter-362",
+      "date": "2026-11-08",
+      "words": 6809,
+      "minutes": 27,
+      "status": "published"
     }
   ]
 }
