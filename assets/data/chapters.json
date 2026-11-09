@@ -4478,6 +4478,18 @@
       "words": 4074,
       "minutes": 16,
       "status": "published"
+    },
+    {
+      "id": "ch-374",
+      "number": 374,
+      "n": 374,
+      "title": "The Chair",
+      "file": "chapters/chapter-374.html",
+      "slug": "chapter-374",
+      "date": "2026-11-08",
+      "words": 5636,
+      "minutes": 23,
+      "status": "published"
     }
   ]
 }
