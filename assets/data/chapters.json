@@ -4658,6 +4658,18 @@
       "words": 4988,
       "minutes": 20,
       "status": "published"
+    },
+    {
+      "id": "ch-389",
+      "number": 389,
+      "n": 389,
+      "title": "The Primer",
+      "file": "chapters/chapter-389.html",
+      "slug": "chapter-389",
+      "date": "2026-11-08",
+      "words": 5087,
+      "minutes": 20,
+      "status": "published"
     }
   ]
 }
