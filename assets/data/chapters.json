@@ -4358,6 +4358,18 @@
       "words": 5000,
       "minutes": 20,
       "status": "published"
+    },
+    {
+      "id": "ch-364",
+      "number": 364,
+      "n": 364,
+      "title": "The Board",
+      "file": "chapters/chapter-364.html",
+      "slug": "chapter-364",
+      "date": "2026-11-08",
+      "words": 5467,
+      "minutes": 22,
+      "status": "published"
     }
   ]
 }
