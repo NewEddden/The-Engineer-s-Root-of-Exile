@@ -4682,6 +4682,18 @@
       "words": 6292,
       "minutes": 25,
       "status": "published"
+    },
+    {
+      "id": "ch-391",
+      "number": 391,
+      "n": 391,
+      "title": "Root of Exile",
+      "file": "chapters/chapter-391.html",
+      "slug": "chapter-391",
+      "date": "2026-11-08",
+      "words": 5467,
+      "minutes": 22,
+      "status": "published"
     }
   ]
 }
