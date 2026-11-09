@@ -4562,6 +4562,18 @@
       "words": 4583,
       "minutes": 18,
       "status": "published"
+    },
+    {
+      "id": "ch-381",
+      "number": 381,
+      "n": 381,
+      "title": "Gills",
+      "file": "chapters/chapter-381.html",
+      "slug": "chapter-381",
+      "date": "2026-11-08",
+      "words": 5162,
+      "minutes": 21,
+      "status": "published"
     }
   ]
 }
