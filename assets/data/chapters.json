@@ -4540,18 +4540,6 @@
       "status": "published"
     },
     {
-      "id": "ch-378",
-      "number": 378,
-      "n": 378,
-      "title": "Shards",
-      "file": "chapters/chapter-378.html",
-      "slug": "chapter-378",
-      "date": "2026-11-08",
-      "words": 5263,
-      "minutes": 21,
-      "status": "published"
-    },
-    {
       "id": "ch-380",
       "number": 380,
       "n": 380,
@@ -4597,6 +4585,30 @@
       "date": "2026-11-08",
       "words": 4914,
       "minutes": 20,
+      "status": "published"
+    },
+    {
+      "id": "ch-378",
+      "number": 378,
+      "n": 378,
+      "title": "Shards",
+      "file": "chapters/chapter-378.html",
+      "slug": "chapter-378",
+      "date": "2026-11-08",
+      "words": 5261,
+      "minutes": 21,
+      "status": "published"
+    },
+    {
+      "id": "ch-384",
+      "number": 384,
+      "n": 384,
+      "title": "Seconds",
+      "file": "chapters/chapter-384.html",
+      "slug": "chapter-384",
+      "date": "2026-11-08",
+      "words": 4602,
+      "minutes": 18,
       "status": "published"
     }
   ]
