@@ -4622,6 +4622,18 @@
       "words": 5235,
       "minutes": 21,
       "status": "published"
+    },
+    {
+      "id": "ch-386",
+      "number": 386,
+      "n": 386,
+      "title": "Long Trials",
+      "file": "chapters/chapter-386.html",
+      "slug": "chapter-386",
+      "date": "2026-11-08",
+      "words": 7356,
+      "minutes": 29,
+      "status": "published"
     }
   ]
 }
