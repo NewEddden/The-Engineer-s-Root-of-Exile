@@ -4354,9 +4354,9 @@
       "title": "The Press",
       "file": "chapters/chapter-363.html",
       "slug": "chapter-363",
-      "date": "2026-11-08",
-      "words": 5000,
-      "minutes": 20,
+      "date": "2026-11-11",
+      "words": 6564,
+      "minutes": 26,
       "status": "published"
     },
     {
@@ -4666,7 +4666,7 @@
       "title": "The Primer",
       "file": "chapters/chapter-389.html",
       "slug": "chapter-389",
-      "date": "2026-11-08",
+      "date": "2026-11-11",
       "words": 10182,
       "minutes": 41,
       "status": "published"
@@ -4690,9 +4690,9 @@
       "title": "Root of Exile",
       "file": "chapters/chapter-391.html",
       "slug": "chapter-391",
-      "date": "2026-11-08",
-      "words": 5467,
-      "minutes": 22,
+      "date": "2026-11-11",
+      "words": 6480,
+      "minutes": 26,
       "status": "published"
     }
   ]
