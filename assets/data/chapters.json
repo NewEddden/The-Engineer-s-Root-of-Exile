@@ -1475,8 +1475,8 @@
       "file": "chapters/chapter-123.html",
       "slug": "chapter-123",
       "date": "2026-10-11",
-      "words": 3111,
-      "minutes": 12,
+      "words": 3196,
+      "minutes": 13,
       "status": "published"
     },
     {
@@ -1967,7 +1967,7 @@
       "file": "chapters/chapter-164.html",
       "slug": "chapter-164",
       "date": "2026-10-12",
-      "words": 3071,
+      "words": 3078,
       "minutes": 12,
       "status": "published"
     },
@@ -2711,8 +2711,8 @@
       "file": "chapters/chapter-226.html",
       "slug": "chapter-226",
       "date": "2026-10-14",
-      "words": 8329,
-      "minutes": 33,
+      "words": 9009,
+      "minutes": 36,
       "status": "published"
     },
     {
@@ -3071,7 +3071,7 @@
       "file": "chapters/chapter-256.html",
       "slug": "chapter-256",
       "date": "2026-10-19",
-      "words": 9909,
+      "words": 10105,
       "minutes": 40,
       "status": "published"
     },
@@ -3191,7 +3191,7 @@
       "file": "chapters/chapter-266.html",
       "slug": "chapter-266",
       "date": "2026-10-07",
-      "words": 11922,
+      "words": 11978,
       "minutes": 48,
       "status": "published"
     },
@@ -4307,7 +4307,7 @@
       "file": "chapters/chapter-359.html",
       "slug": "chapter-359",
       "date": "2026-11-03",
-      "words": 7909,
+      "words": 8009,
       "minutes": 32,
       "status": "published"
     },
